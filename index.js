@@ -1,9 +1,22 @@
+function inHTML(valor){
+  const img = document.createElement('img')
+  img.src = valor
+  document.body.appendChild(img)
+
+}
 
 
- fetch('https://luismoraes7.github.io/Testes/teamsPL.json')
+ fetch('https://luismoraes7.github.io/Testes/playersPL.json')
    .then(response => response.json())
-   .then(teams => {
-    teams.map((team) => console.log(team.team.name))
+   .then(players => {
+    players.map((player) => {if (player.team === "Arsenal" && player.position === "Defender"){
+      inHTML(player.image)
+
+    } else{
+      
+    }}
+  )
+    
 
 })
 

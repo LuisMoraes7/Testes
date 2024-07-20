@@ -49,19 +49,19 @@
     },
     {
         "name": "Buyako Saka",
-        "position": "Forwards",
+        "position": "Forward",
         "team":  "Arsenal",
         "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p223340.png"
     },
     {
         "name": "Gabriel Martinelli",
-        "position": "Forwards",
+        "position": "Forward",
         "team":  "Arsenal",
         "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p444145.png"
     },
     {
         "name": "Leandro Trossard",
-        "position": "Forwards",
+        "position": "Forward",
         "team":  "Arsenal",
         "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p116216.png"
     },
@@ -102,33 +102,828 @@
         "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p151086.png"
     },
     {
+        "name": "Pablo Sarabia",
+        "position": "Midfielder",
+        "team":  "Wolves",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p88484.png"
+    },
+    {
+        "name": "João Gomes",
+        "position": "Midfielder",
+        "team":  "Wolves",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p448089.png"
+    },
+    {
+        "name": "Matheus Cunha",
+        "position": "Forward",
+        "team":  "Wolves",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p430871.png"
+    },
+    {
+        "name": "Hwang Hee-chan",
+        "position": "Forward",
+        "team":  "Wolves",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p184754.png"
+    },
+    {
+        "name": "Pedro Neto",
+        "position": "Forward",
+        "team":  "Wolves",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p247632.png"
+    },
+    {
+        "name": "Alphonse Areola",
+        "position": "Goalkeeper",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p84182.png"
+    },
+    {
+        "name": "Kurt Zouma",
+        "position": "Defender",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p103192.png"
+    },
+    {
+        "name": "Emerson",
+        "position": "Defender",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p109533.png"
+    },
+    {
+        "name": "Lucas Paquetá",
+        "position": "Midfielder",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p224024.png"
+    },
+    {
+        "name": "Tomás Soucek",
+        "position": "Midfielder",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p215439.png"
+    },
+    {
+        "name": "Edson Álvarez",
+        "position": "Midfielder",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p101178.png"
+    },
+    {
+        "name": "Mohammed Kudus",
+        "position": "Midfielder",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p460842.png"
+    },
+    {
+        "name": "Jarrod Bowen",
+        "position": "Forward",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p178186.png"
+    },
+    {
+        "name": "Vladimír Coufal",
+        "position": "Defender",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p164555.png"
+    },
+    {
+        "name": "Nayef Aguerd",
+        "position": "Defender",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p210494.png"
+    },
+    {
+        "name": "Konstantinos Mavropanos",
+        "position": "Defender",
+        "team":  "West Ham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p233963.png"
+    },
+    {
+        "name": "Guglielmo Vicario",
+        "position": "Goalkeeper",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p184254.png"
+    },
+    {
+        "name": "Cristian Romero",
+        "position": "Defender",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p221632.png"
+    },
+    {
+        "name": "Pedro Porro",
+        "position": "Defender",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p441164.png"
+    },
+    {
+        "name": "Micky van de Ven",
+        "position": "Defender",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p491279.png"
+    },
+    {
+        "name": "Pierre-Emile Højbjerg",
+        "position": "Midfielder",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p132015.png"
+    },
+    {
+        "name": "Pape Sarr",
+        "position": "Midfielder",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p482442.png"
+    },
+    {
+        "name": "Dejan Kulusevski",
+        "position": "Midfielder",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p445044.png"
+    },
+    {
+        "name": "Son Heung-Min",
+        "position": "Forward",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p85971.png"
+    },
+    {
+        "name": "Brennan Johnson",
+        "position": "Forward",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p242898.png"
+    },
+    {
+        "name": "Richarlison",
+        "position": "Forward",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p212319.png"
+    },
+    {
+        "name": "James Maddison",
+        "position": "Midfielder",
+        "team":  "Tottenham",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p172780.png"
+    },
+    {
+        "name": "Matt Turner",
+        "position": "Goalkeeper",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p224068.png"
+    },
+    {
+        "name": "Neco Williams",
+        "position": "Defender",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p215136.png"
+    },
+    {
+        "name": "Murillo",
+        "position": "Defender",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p575476.png"
+    },
+    {
+        "name": "Morgan Gibbs-White",
+        "position": "Midfielder",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p222531.png"
+    },
+    {
+        "name": "Ryan Yates",
+        "position": "Midfielder",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p204968.png"
+    },
+    {
+        "name": "Danilo",
+        "position": "Midfielder",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p513046.png"
+    },
+    {
+        "name": "Nicolás Domínguez",
+        "position": "Midfielder",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p250199.png"
+    },
+    {
+        "name": "Chris Wood",
+        "position": "Forward",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p60689.png"
+    },
+    {
+        "name": "Anthony Elanga",
+        "position": "Forward",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p449434.png"
+    },
+    {
+        "name": "Chris Wood",
+        "position": "Forward",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p60689.png"
+    },
+    {
+        "name": "Callum Hudson-Odoi",
+        "position": "Forward",
+        "team":  "Nottingham Forest",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p209046.png"
+    },
+    {
+        "name": "Martin Dúbravka",
+        "position": "Goalkeeper",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p67089.png"
+    },
+    {
+        "name": "Kieran Trippier",
+        "position": "Defender",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p77794.png"
+    },
+    {
+        "name": "Fabian Schär",
+        "position": "Defender",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p119471.png"
+    },
+    {
+        "name": "Dan Burn",
+        "position": "Defender",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p78916.png"
+    },
+    {
+        "name": "Tino Livramento",
+        "position": "Defender",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p441191.png"
+    },
+    {
+        "name": "Miguel Almirón",
+        "position": "Midfielder",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p179018.png"
+    },
+    {
+        "name": "Sean Longstaff",
+        "position": "Midfielder",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p180135.png"
+    },
+    {
+        "name": "Bruno Guimarães",
+        "position": "Midfielder",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p208706.png"
+    },
+    {
+        "name": "Anthony Gordon",
+        "position": "Forward",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p232826.png"
+    },
+    {
+        "name": "Alexander Isak",
+        "position": "Forward",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p219168.png"
+    },
+    {
+        "name": "Elliot Anderson",
+        "position": "Midfielder",
+        "team":  "Newcastle",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p215379.png"
+    },
+    {
+        "name": "André Onana",
+        "position": "Goalkeeper",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p202641.png"
+    },
+    {
+        "name": "Diogo Dalot",
+        "position": "Defender",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p216051.png"
+    },
+    {
+        "name": "Aaron Wan-Bissaka",
+        "position": "Defender",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p214590.png"
+    },
+    {
+        "name": "Raphaël Varane",
+        "position": "Defender",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p90152.png"
+    },
+    {
+        "name": "Harry Maguire",
+        "position": "Defender",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p95658.png"
+    },
+    {
+        "name": "Bruno Fernandes",
+        "position": "Midfielder",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p141746.png"
+    },
+    {
+        "name": "Casemiro",
+        "position": "Midfielder",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p61256.png"
+    },
+    {
+        "name": "Kobbie Mainoo",
+        "position": "Midfielder",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p516895.png"
+    },
+    {
+        "name": "Marcus Rashford",
+        "position": "Forward",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p176297.png"
+    },
+    {
+        "name": "Alejandro Garnacho",
+        "position": "Forward",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p493105.png"
+    },
+    {
+        "name": "Rasmus Højlund",
+        "position": "Forward",
+        "team":  "Manchester United",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p497894.png"
+    },
+    {
+        "name": "Ederson",
+        "position": "Goalkeeper",
+        "team":  "Manchester City",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p121160.png"
+    },
+    {
+        "name": "Kyle Walker",
+        "position": "Defender",
+        "team":  "Manchester City",
+        "image": ""
+    },
+    {
+        "name": "Rúben Dias",
+        "position": "Defender",
+        "team":  "Manchester City",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p171314.png"
+    },
+    {
+        "name": "Manuel Akanji",
+        "position": "Defender",
+        "team":  "Manchester City",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p211975.png"
+    },
+    {
+        "name": "Nathan Aké",
+        "position": "Defender",
+        "team":  "Manchester City",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p126184.png"
+    },
+    {
+        "name": "Rodri",
+        "position": "Midfielder",
+        "team":  "Manchester City",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p220566.png"
+    },
+    {
+        "name": "Bernardo Silva",
+        "position": "Midfielder",
+        "team":  "Manchester City",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p165809.png"
+    },
+    {
+        "name": "Phil Foden",
+        "position": "Midfielder",
+        "team":  "Manchester City",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p209244.png"
+    },
+    {
+        "name": "Mateo Kovacic",
+        "position": "Midfielder",
+        "team":  "Manchester City",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p91651.png"
+    },
+    {
+        "name": "Erling Haaland",
+        "position": "Forward",
+        "team":  "Manchester City",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p223094.png"
+    },
+    {
+        "name": "Julián Álvarez",
+        "position": "Forward",
+        "team":  "Manchester City",
+        "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p461358.png"
+    },
+    {
         "name": "",
         "position": "",
-        "team":  "",
+        "team":  "Liverpool",
         "image": ""
     },
     {
         "name": "",
         "position": "",
-        "team":  "",
+        "team":  "Liverpool",
         "image": ""
     },
     {
         "name": "",
         "position": "",
-        "team":  "",
+        "team":  "Liverpool",
         "image": ""
     },
     {
         "name": "",
         "position": "",
-        "team":  "",
+        "team":  "Liverpool",
         "image": ""
     },
     {
         "name": "",
         "position": "",
-        "team":  "",
+        "team":  "Liverpool",
         "image": ""
-    }
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Liverpool",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Liverpool",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Liverpool",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Liverpool",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Liverpool",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Liverpool",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Fulham",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Everton",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Crystal Palace",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Chelsea",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+    {
+        "name": "",
+        "position": "",
+        "team":  "Aston Villa",
+        "image": ""
+    },
+
+
+
 ]
