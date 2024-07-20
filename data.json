@@ -1,5 +1,3 @@
-
-
 {
   "competition": "English Premier League",
   "location": "United Kingdom",
@@ -9,10 +7,74 @@
   "total_matchdays": 38,
   "total_matches": 380,
   "number_of_participating_clubs": 20,
-  "participating_clubs": ["Arsenal", "Bournemouth", "Brighton and Hove Albion", "Burnley", "Cardiff City", "Chelsea", "Crystal Palace", "Everton", "Fulham", "Huddersfield Town", "Leicester City", "Liverpool", "Manchester City", "Manchester United", "Newcastle United", "Southampton", "Tottenham Hotspur", "Watford", "West Ham United", "Wolverhampton Wanderers"],
-  "stadiums": ["Emirates Stadium", "Vitality Stadium", "Amex Stadium", "Turf Moor", "Cardiff City Stadium", "Stamford Bridge", "Selhurst Park", "Goodison Park", "Craven Cottage", "John Smith's Stadium", "King Power Stadium", "Anfield", "Etihad Stadium", "Old Trafford", "St. James' Park", "St. Mary's Stadium", "Wembley Stadium", "Vicarage Road", "London Stadium", "Molineux Stadium"],
-  "teams_codes": ["ARS", "BOU", "BHA", "BUR", "CAR", "CHE", "CRY", "EVE", "FUL", "HUD", "LEI", "LIV", "MCI", "MUN", "NEW", "SOU", "TOT", "WAT", "WHU", "WOL"],
-  "clubs": [{
+  "participating_clubs": [
+    "Arsenal",
+    "Bournemouth",
+    "Brighton and Hove Albion",
+    "Burnley",
+    "Cardiff City",
+    "Chelsea",
+    "Crystal Palace",
+    "Everton",
+    "Fulham",
+    "Huddersfield Town",
+    "Leicester City",
+    "Liverpool",
+    "Manchester City",
+    "Manchester United",
+    "Newcastle United",
+    "Southampton",
+    "Tottenham Hotspur",
+    "Watford",
+    "West Ham United",
+    "Wolverhampton Wanderers"
+  ],
+  "stadiums": [
+    "Emirates Stadium",
+    "Vitality Stadium",
+    "Amex Stadium",
+    "Turf Moor",
+    "Cardiff City Stadium",
+    "Stamford Bridge",
+    "Selhurst Park",
+    "Goodison Park",
+    "Craven Cottage",
+    "John Smith's Stadium",
+    "King Power Stadium",
+    "Anfield",
+    "Etihad Stadium",
+    "Old Trafford",
+    "St. James' Park",
+    "St. Mary's Stadium",
+    "Wembley Stadium",
+    "Vicarage Road",
+    "London Stadium",
+    "Molineux Stadium"
+  ],
+  "teams_codes": [
+    "ARS",
+    "BOU",
+    "BHA",
+    "BUR",
+    "CAR",
+    "CHE",
+    "CRY",
+    "EVE",
+    "FUL",
+    "HUD",
+    "LEI",
+    "LIV",
+    "MCI",
+    "MUN",
+    "NEW",
+    "SOU",
+    "TOT",
+    "WAT",
+    "WHU",
+    "WOL"
+  ],
+  "clubs": [
+    {
       "id": 1,
       "name": "Arsenal",
       "short_name": "Arsenal",
@@ -45,9 +107,24 @@
       "home_points": 3,
       "away_points": 3,
       "next_fixture": "NEW-(A)",
-      "previous_fixtures": ["MCI-(H)", "CHE-(A)", "WHU-(H)", "CAR-(A)"],
-      "results": ["0-2", "3-2", "3-1", "2-3"],
-      "form": ["L", "L", "W", "W"]
+      "previous_fixtures": [
+        "MCI-(H)",
+        "CHE-(A)",
+        "WHU-(H)",
+        "CAR-(A)"
+      ],
+      "results": [
+        "0-2",
+        "3-2",
+        "3-1",
+        "2-3"
+      ],
+      "form": [
+        "L",
+        "L",
+        "W",
+        "W"
+      ]
     },
     {
       "id": 2,
@@ -82,9 +159,24 @@
       "home_points": 4,
       "away_points": 3,
       "next_fixture": "LEI-(H)",
-      "previous_fixtures": ["CAR-(H)", "WHU-(A)", "EVE-(H)", "CHE-(A)"],
-      "results": ["2-0", "1-2", "2-2", "2-0"],
-      "form": ["W", "W", "D", "L"]
+      "previous_fixtures": [
+        "CAR-(H)",
+        "WHU-(A)",
+        "EVE-(H)",
+        "CHE-(A)"
+      ],
+      "results": [
+        "2-0",
+        "1-2",
+        "2-2",
+        "2-0"
+      ],
+      "form": [
+        "W",
+        "W",
+        "D",
+        "L"
+      ]
     },
     {
       "id": 3,
@@ -119,9 +211,24 @@
       "home_points": 4,
       "away_points": 0,
       "next_fixture": "SOU-(A)",
-      "previous_fixtures": ["WAT-(A)", "MUN-(H)", "LIV-(A)", "FUL-(H)"],
-      "results": ["2-0", "3-2", "1-0", "2-2"],
-      "form": ["L", "W", "L", "D"]
+      "previous_fixtures": [
+        "WAT-(A)",
+        "MUN-(H)",
+        "LIV-(A)",
+        "FUL-(H)"
+      ],
+      "results": [
+        "2-0",
+        "3-2",
+        "1-0",
+        "2-2"
+      ],
+      "form": [
+        "L",
+        "W",
+        "L",
+        "D"
+      ]
     },
     {
       "id": 4,
@@ -156,9 +263,24 @@
       "home_points": 0,
       "away_points": 1,
       "next_fixture": "WOL-(A)",
-      "previous_fixtures": ["SOU-(A)", "WAT-(H)", "FUL-(A)", "MUN-(H)"],
-      "results": ["0-0", "1-3", "4-2", "0-2"],
-      "form": ["D", "L", "L", "L"]
+      "previous_fixtures": [
+        "SOU-(A)",
+        "WAT-(H)",
+        "FUL-(A)",
+        "MUN-(H)"
+      ],
+      "results": [
+        "0-0",
+        "1-3",
+        "4-2",
+        "0-2"
+      ],
+      "form": [
+        "D",
+        "L",
+        "L",
+        "L"
+      ]
     },
     {
       "id": 5,
@@ -193,9 +315,24 @@
       "home_points": 1,
       "away_points": 1,
       "next_fixture": "CHE-(A)",
-      "previous_fixtures": ["BOU-(A)", "NEW-(H)", "HUD-(A)", "ARS-(H)"],
-      "results": ["2-0", "0-0", "0-0", "2-3"],
-      "form": ["L", "D", "D", "L"]
+      "previous_fixtures": [
+        "BOU-(A)",
+        "NEW-(H)",
+        "HUD-(A)",
+        "ARS-(H)"
+      ],
+      "results": [
+        "2-0",
+        "0-0",
+        "0-0",
+        "2-3"
+      ],
+      "form": [
+        "L",
+        "D",
+        "D",
+        "L"
+      ]
     },
     {
       "id": 6,
@@ -230,9 +367,24 @@
       "home_points": 6,
       "away_points": 6,
       "next_fixture": "CAR-(H)",
-      "previous_fixtures": ["HUD-(A)", "ARS-(H)", "NEW-(A)", "BOU-(H)"],
-      "results": ["0-3", "3-2", "1-2", "2-0"],
-      "form": ["W", "W", "W", "W"]
+      "previous_fixtures": [
+        "HUD-(A)",
+        "ARS-(H)",
+        "NEW-(A)",
+        "BOU-(H)"
+      ],
+      "results": [
+        "0-3",
+        "3-2",
+        "1-2",
+        "2-0"
+      ],
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
     },
     {
       "id": 7,
@@ -267,9 +419,24 @@
       "home_points": 0,
       "away_points": 3,
       "next_fixture": "HUD-(A)",
-      "previous_fixtures": ["FUL-(A)", "LIV-(H)", "WAT-(A)", "SOU-(H)"],
-      "results": ["0-2", "0-2", "2-1", "0-2"],
-      "form": ["W", "L", "L", "L"]
+      "previous_fixtures": [
+        "FUL-(A)",
+        "LIV-(H)",
+        "WAT-(A)",
+        "SOU-(H)"
+      ],
+      "results": [
+        "0-2",
+        "0-2",
+        "2-1",
+        "0-2"
+      ],
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L"
+      ]
     },
     {
       "id": 8,
@@ -304,9 +471,24 @@
       "home_points": 4,
       "away_points": 2,
       "next_fixture": "WHU-(H)",
-      "previous_fixtures": ["WOL-(A)", "SOU-(H)", "BOU-(A)", "HUD-(H)"],
-      "results": ["2-2", "2-1", "2-2", "1-1"],
-      "form": ["D", "W", "D", "D"]
+      "previous_fixtures": [
+        "WOL-(A)",
+        "SOU-(H)",
+        "BOU-(A)",
+        "HUD-(H)"
+      ],
+      "results": [
+        "2-2",
+        "2-1",
+        "2-2",
+        "1-1"
+      ],
+      "form": [
+        "D",
+        "W",
+        "D",
+        "D"
+      ]
     },
     {
       "id": 9,
@@ -341,9 +523,24 @@
       "home_points": 3,
       "away_points": 1,
       "next_fixture": "MCI-(A)",
-      "previous_fixtures": ["CRY-(H)", "TOT-(A)", "BUR-(H)", "BHA-(A)"],
-      "results": ["0-2", "3-1", "4-2", "2-2"],
-      "form": ["L", "L", "W", "D"]
+      "previous_fixtures": [
+        "CRY-(H)",
+        "TOT-(A)",
+        "BUR-(H)",
+        "BHA-(A)"
+      ],
+      "results": [
+        "0-2",
+        "3-1",
+        "4-2",
+        "2-2"
+      ],
+      "form": [
+        "L",
+        "L",
+        "W",
+        "D"
+      ]
     },
     {
       "id": 10,
@@ -378,9 +575,24 @@
       "home_points": 1,
       "away_points": 1,
       "next_fixture": "CRY-(H)",
-      "previous_fixtures": ["CHE-(H)", "MCI-(A)", "CAR-(H)", "EVE-(A)"],
-      "results": ["0-3", "6-1", "0-0", "1-1"],
-      "form": ["L", "L", "D", "D"]
+      "previous_fixtures": [
+        "CHE-(H)",
+        "MCI-(A)",
+        "CAR-(H)",
+        "EVE-(A)"
+      ],
+      "results": [
+        "0-3",
+        "6-1",
+        "0-0",
+        "1-1"
+      ],
+      "form": [
+        "L",
+        "L",
+        "D",
+        "D"
+      ]
     },
     {
       "id": 11,
@@ -415,9 +627,24 @@
       "home_points": 3,
       "away_points": 3,
       "next_fixture": "BOU-(A)",
-      "previous_fixtures": ["MUN-(A)", "WOL-(H)", "SOU-(A)", "LIV-(H)"],
-      "results": ["2-1", "2-0", "1-2", "1-2"],
-      "form": ["L", "W", "W", "L"]
+      "previous_fixtures": [
+        "MUN-(A)",
+        "WOL-(H)",
+        "SOU-(A)",
+        "LIV-(H)"
+      ],
+      "results": [
+        "2-1",
+        "2-0",
+        "1-2",
+        "1-2"
+      ],
+      "form": [
+        "L",
+        "W",
+        "W",
+        "L"
+      ]
     },
     {
       "id": 12,
@@ -452,9 +679,24 @@
       "home_points": 6,
       "away_points": 6,
       "next_fixture": "TOT-(A)",
-      "previous_fixtures": ["WHU-(H)", "CRY-(A)", "BHA-(H)", "LEI-(A)"],
-      "results": ["4-0", "0-2", "1-0", "1-2"],
-      "form": ["W", "W", "W", "W"]
+      "previous_fixtures": [
+        "WHU-(H)",
+        "CRY-(A)",
+        "BHA-(H)",
+        "LEI-(A)"
+      ],
+      "results": [
+        "4-0",
+        "0-2",
+        "1-0",
+        "1-2"
+      ],
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
     },
     {
       "id": 13,
@@ -489,9 +731,24 @@
       "home_points": 6,
       "away_points": 4,
       "next_fixture": "FUL-(H)",
-      "previous_fixtures": ["ARS-(A)", "HUD-(H)", "WOL-(A)", "NEW-(H)"],
-      "results": ["0-2", "6-1", "1-1", "2-1"],
-      "form": ["W", "W", "D", "W"]
+      "previous_fixtures": [
+        "ARS-(A)",
+        "HUD-(H)",
+        "WOL-(A)",
+        "NEW-(H)"
+      ],
+      "results": [
+        "0-2",
+        "6-1",
+        "1-1",
+        "2-1"
+      ],
+      "form": [
+        "W",
+        "W",
+        "D",
+        "W"
+      ]
     },
     {
       "id": 14,
@@ -526,9 +783,24 @@
       "home_points": 3,
       "away_points": 3,
       "next_fixture": "WAT-(A)",
-      "previous_fixtures": ["LEI-(H)", "BHA-(A)", "TOT-(H)", "BUR-(A)"],
-      "results": ["2-1", "3-2", "0-3", "0-2"],
-      "form": ["W", "L", "L", "W"]
+      "previous_fixtures": [
+        "LEI-(H)",
+        "BHA-(A)",
+        "TOT-(H)",
+        "BUR-(A)"
+      ],
+      "results": [
+        "2-1",
+        "3-2",
+        "0-3",
+        "0-2"
+      ],
+      "form": [
+        "W",
+        "L",
+        "L",
+        "W"
+      ]
     },
     {
       "id": 15,
@@ -563,9 +835,24 @@
       "home_points": 0,
       "away_points": 1,
       "next_fixture": "ARS-(H)",
-      "previous_fixtures": ["TOT-(H)", "CAR-(A)", "CHE-(H)", "MCI-(A)"],
-      "results": ["1-2", "0-0", "1-2", "2-1"],
-      "form": ["L", "D", "L", "L"]
+      "previous_fixtures": [
+        "TOT-(H)",
+        "CAR-(A)",
+        "CHE-(H)",
+        "MCI-(A)"
+      ],
+      "results": [
+        "1-2",
+        "0-0",
+        "1-2",
+        "2-1"
+      ],
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L"
+      ]
     },
     {
       "id": 16,
@@ -600,9 +887,24 @@
       "home_points": 1,
       "away_points": 3,
       "next_fixture": "BHA-(H)",
-      "previous_fixtures": ["BUR-(H)", "EVE-(A)", "LEI-(H)", "CRY-(A)"],
-      "results": ["0-0", "2-1", "1-2", "2-2"],
-      "form": ["D", "L", "L", "W"]
+      "previous_fixtures": [
+        "BUR-(H)",
+        "EVE-(A)",
+        "LEI-(H)",
+        "CRY-(A)"
+      ],
+      "results": [
+        "0-0",
+        "2-1",
+        "1-2",
+        "2-2"
+      ],
+      "form": [
+        "D",
+        "L",
+        "L",
+        "W"
+      ]
     },
     {
       "id": 17,
@@ -637,9 +939,24 @@
       "home_points": 3,
       "away_points": 6,
       "next_fixture": "LIV-(H)",
-      "previous_fixtures": ["NEW-(A)", "FUL-(H)", "MUN-(A)", "WAT-(A)"],
-      "results": ["1-2", "3-1", "0-3", "2-1"],
-      "form": ["W", "W", "W", "L"]
+      "previous_fixtures": [
+        "NEW-(A)",
+        "FUL-(H)",
+        "MUN-(A)",
+        "WAT-(A)"
+      ],
+      "results": [
+        "1-2",
+        "3-1",
+        "0-3",
+        "2-1"
+      ],
+      "form": [
+        "W",
+        "W",
+        "W",
+        "L"
+      ]
     },
     {
       "id": 18,
@@ -674,9 +991,24 @@
       "home_points": 9,
       "away_points": 3,
       "next_fixture": "MUN-(H)",
-      "previous_fixtures": ["BHA-(H)", "BUR-(A)", "CRY-(H)", "TOT-(H)"],
-      "results": ["2-0", "1-3", "2-1", "2-1"],
-      "form": ["W", "W", "W", "W"]
+      "previous_fixtures": [
+        "BHA-(H)",
+        "BUR-(A)",
+        "CRY-(H)",
+        "TOT-(H)"
+      ],
+      "results": [
+        "2-0",
+        "1-3",
+        "2-1",
+        "2-1"
+      ],
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
     },
     {
       "id": 19,
@@ -711,9 +1043,24 @@
       "home_points": 0,
       "away_points": 0,
       "next_fixture": "EVE-(A)",
-      "previous_fixtures": ["LIV-(A)", "BOU-(H)", "ARS-(A)", "WOL-(H)"],
-      "results": ["4-0", "1-2", "3-1", "0-1"],
-      "form": ["L", "L", "L", "L"]
+      "previous_fixtures": [
+        "LIV-(A)",
+        "BOU-(H)",
+        "ARS-(A)",
+        "WOL-(H)"
+      ],
+      "results": [
+        "4-0",
+        "1-2",
+        "3-1",
+        "0-1"
+      ],
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L"
+      ]
     },
     {
       "id": 20,
@@ -748,19 +1095,36 @@
       "home_points": 2,
       "away_points": 3,
       "next_fixture": "BUR-(H)",
-      "previous_fixtures": ["EVE-(H)", "LEI-(A)", "MCI-(H)", "WHU-(A)"],
-      "results": ["2-2", "2-0", "1-1", "0-1"],
-      "form": ["D", "L", "D", "W"]
+      "previous_fixtures": [
+        "EVE-(H)",
+        "LEI-(A)",
+        "MCI-(H)",
+        "WHU-(A)"
+      ],
+      "results": [
+        "2-2",
+        "2-0",
+        "1-1",
+        "0-1"
+      ],
+      "form": [
+        "D",
+        "L",
+        "D",
+        "W"
+      ]
     }
   ],
-  "season_fixtures": [{
+  "season_fixtures": [
+    {
       "matchday": 1,
       "upcoming": false,
       "total_goals_scored": 25,
       "total_home_goals_scored": 13,
       "total_away_goals_scored": 12,
       "number_of_own_goals": 0,
-      "fixtures": [{
+      "fixtures": [
+        {
           "id": 1001,
           "home_team": "Manchester United",
           "home_team_code": "MUN",
@@ -775,8 +1139,13 @@
           "full_time_score": "2-1",
           "home_team_goals": 2,
           "away_team_goals": 1,
-          "home_team_scorers": ["Pogba 3' (P)", "Shaw 83'"],
-          "away_team_scorers": ["Vardy 90 +2'"],
+          "home_team_scorers": [
+            "Pogba 3' (P)",
+            "Shaw 83'"
+          ],
+          "away_team_scorers": [
+            "Vardy 90 +2'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -795,8 +1164,13 @@
           "full_time_score": "1-2",
           "home_team_goals": 1,
           "away_team_goals": 2,
-          "home_team_scorers": ["Joselu 11'"],
-          "away_team_scorers": ["Vertonghen 8'", "Alli 18'"],
+          "home_team_scorers": [
+            "Joselu 11'"
+          ],
+          "away_team_scorers": [
+            "Vertonghen 8'",
+            "Alli 18'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -815,7 +1189,10 @@
           "full_time_score": "2-0",
           "home_team_goals": 2,
           "away_team_goals": 0,
-          "home_team_scorers": ["Fraser 24'", "Wilson 90 +1'"],
+          "home_team_scorers": [
+            "Fraser 24'",
+            "Wilson 90 +1'"
+          ],
           "away_team_scorers": [],
           "postponed": false,
           "status": "FT"
@@ -836,7 +1213,10 @@
           "home_team_goals": 0,
           "away_team_goals": 2,
           "home_team_scorers": [],
-          "away_team_scorers": ["Zaha 79'", "Schlupp 41'"],
+          "away_team_scorers": [
+            "Zaha 79'",
+            "Schlupp 41'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -856,7 +1236,11 @@
           "home_team_goals": 0,
           "away_team_goals": 3,
           "home_team_scorers": [],
-          "away_team_scorers": ["Kanté 34'", "Jorginho 45' (P)", "Pedro 80'"],
+          "away_team_scorers": [
+            "Kanté 34'",
+            "Jorginho 45' (P)",
+            "Pedro 80'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -875,7 +1259,10 @@
           "full_time_score": "2-0",
           "home_team_goals": 2,
           "away_team_goals": 0,
-          "home_team_scorers": ["Pereyra 35'", "Pereyra 54'"],
+          "home_team_scorers": [
+            "Pereyra 35'",
+            "Pereyra 54'"
+          ],
           "away_team_scorers": [],
           "postponed": false,
           "status": "FT"
@@ -895,8 +1282,14 @@
           "full_time_score": "2-2",
           "home_team_goals": 2,
           "away_team_goals": 2,
-          "home_team_scorers": ["Neves 44'", "Jiménez 80'"],
-          "away_team_scorers": ["Richarlison 17'", "Richarlison 67'"],
+          "home_team_scorers": [
+            "Neves 44'",
+            "Jiménez 80'"
+          ],
+          "away_team_scorers": [
+            "Richarlison 17'",
+            "Richarlison 67'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -915,7 +1308,12 @@
           "full_time_score": "4-0",
           "home_team_goals": 4,
           "away_team_goals": 0,
-          "home_team_scorers": ["Salah 19'", "Mané 47'", "Mané 53'", "Sturridge 88'"],
+          "home_team_scorers": [
+            "Salah 19'",
+            "Mané 47'",
+            "Mané 53'",
+            "Sturridge 88'"
+          ],
           "away_team_scorers": [],
           "postponed": false,
           "status": "FT"
@@ -956,7 +1354,10 @@
           "home_team_goals": 0,
           "away_team_goals": 2,
           "home_team_scorers": [],
-          "away_team_scorers": ["Sterling 14'", "B.Silva 64'"],
+          "away_team_scorers": [
+            "Sterling 14'",
+            "B.Silva 64'"
+          ],
           "postponed": false,
           "status": "FT"
         }
@@ -969,7 +1370,8 @@
       "total_home_goals_scored": 21,
       "total_away_goals_scored": 14,
       "number_of_own_goals": 2,
-      "fixtures": [{
+      "fixtures": [
+        {
           "id": 1011,
           "home_team": "Cardiff City",
           "home_team_code": "CAR",
@@ -1004,8 +1406,13 @@
           "full_time_score": "2-1",
           "home_team_goals": 2,
           "away_team_goals": 1,
-          "home_team_scorers": ["Walcott 15'", "Richarlison 31'"],
-          "away_team_scorers": ["Ings 54'"],
+          "home_team_scorers": [
+            "Walcott 15'",
+            "Richarlison 31'"
+          ],
+          "away_team_scorers": [
+            "Ings 54'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1024,7 +1431,10 @@
           "full_time_score": "2-0",
           "home_team_goals": 2,
           "away_team_goals": 0,
-          "home_team_scorers": ["Doherty 29' (OG)", "Maddison 45'"],
+          "home_team_scorers": [
+            "Doherty 29' (OG)",
+            "Maddison 45'"
+          ],
           "away_team_scorers": [],
           "postponed": false,
           "status": "FT"
@@ -1044,8 +1454,14 @@
           "full_time_score": "3-1",
           "home_team_goals": 3,
           "away_team_goals": 1,
-          "home_team_scorers": ["Moura 43'", "Trippier 74'", "Kane 77'"],
-          "away_team_scorers": ["Mitrović 52'"],
+          "home_team_scorers": [
+            "Moura 43'",
+            "Trippier 74'",
+            "Kane 77'"
+          ],
+          "away_team_scorers": [
+            "Mitrović 52'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1064,8 +1480,13 @@
           "full_time_score": "1-2",
           "home_team_goals": 1,
           "away_team_goals": 2,
-          "home_team_scorers": ["Arnautović 33' (P)"],
-          "away_team_scorers": ["Wilson 60'", "S.Cook 66'"],
+          "home_team_scorers": [
+            "Arnautović 33' (P)"
+          ],
+          "away_team_scorers": [
+            "Wilson 60'",
+            "S.Cook 66'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1084,8 +1505,15 @@
           "full_time_score": "3-2",
           "home_team_goals": 3,
           "away_team_goals": 2,
-          "home_team_scorers": ["Pedro 9'", "Morata 20'", "Alonso 81'"],
-          "away_team_scorers": ["Mkhitaryan 37'", "Iwobi 41'"],
+          "home_team_scorers": [
+            "Pedro 9'",
+            "Morata 20'",
+            "Alonso 81'"
+          ],
+          "away_team_scorers": [
+            "Mkhitaryan 37'",
+            "Iwobi 41'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1104,8 +1532,14 @@
           "full_time_score": "1-3",
           "home_team_goals": 1,
           "away_team_goals": 3,
-          "home_team_scorers": ["Tarkowski 6'"],
-          "away_team_scorers": ["Gray 3'", "Deeney 48'", "Hughes 51'"],
+          "home_team_scorers": [
+            "Tarkowski 6'"
+          ],
+          "away_team_scorers": [
+            "Gray 3'",
+            "Deeney 48'",
+            "Hughes 51'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1124,8 +1558,17 @@
           "full_time_score": "6-1",
           "home_team_goals": 6,
           "away_team_goals": 1,
-          "home_team_scorers": ["Agüero 25'", "Jesus 31'", "Agüero 35'", "D.Silva 48'", "Agüero 75'", "Kongolo 84' (OG)"],
-          "away_team_scorers": ["Stanković 43'"],
+          "home_team_scorers": [
+            "Agüero 25'",
+            "Jesus 31'",
+            "Agüero 35'",
+            "D.Silva 48'",
+            "Agüero 75'",
+            "Kongolo 84' (OG)"
+          ],
+          "away_team_scorers": [
+            "Stanković 43'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1144,8 +1587,15 @@
           "full_time_score": "3-2",
           "home_team_goals": 3,
           "away_team_goals": 2,
-          "home_team_scorers": ["Murray 25'", "Duffy 27'", "Groß 44' (P)"],
-          "away_team_scorers": ["Lukaku 34'", "Pogba 90 +5' (P)"],
+          "home_team_scorers": [
+            "Murray 25'",
+            "Duffy 27'",
+            "Groß 44' (P)"
+          ],
+          "away_team_scorers": [
+            "Lukaku 34'",
+            "Pogba 90 +5' (P)"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1165,7 +1615,10 @@
           "home_team_goals": 0,
           "away_team_goals": 2,
           "home_team_scorers": [],
-          "away_team_scorers": ["Milner 45' (P)", "Mané 90 +3"],
+          "away_team_scorers": [
+            "Milner 45' (P)",
+            "Mané 90 +3"
+          ],
           "postponed": false,
           "status": "FT"
         }
@@ -1178,7 +1631,8 @@
       "total_home_goals_scored": 15,
       "total_away_goals_scored": 14,
       "number_of_own_goals": 2,
-      "fixtures": [{
+      "fixtures": [
+        {
           "id": 1021,
           "home_team": "Wolverhampton Wanderers",
           "home_team_code": "WOL",
@@ -1193,8 +1647,12 @@
           "full_time_score": "1-1",
           "home_team_goals": 1,
           "away_team_goals": 1,
-          "home_team_scorers": ["Boly 57'"],
-          "away_team_scorers": ["Laporte 69'"],
+          "home_team_scorers": [
+            "Boly 57'"
+          ],
+          "away_team_scorers": [
+            "Laporte 69'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1213,8 +1671,14 @@
           "full_time_score": "3-1",
           "home_team_goals": 3,
           "away_team_goals": 1,
-          "home_team_scorers": ["Monreal 30'", "Diop 70' (OG)", "Welbeck 90 +2'"],
-          "away_team_scorers": ["Arnautović 25'"],
+          "home_team_scorers": [
+            "Monreal 30'",
+            "Diop 70' (OG)",
+            "Welbeck 90 +2'"
+          ],
+          "away_team_scorers": [
+            "Arnautović 25'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1233,8 +1697,14 @@
           "full_time_score": "2-2",
           "home_team_goals": 2,
           "away_team_goals": 2,
-          "home_team_scorers": ["King 75' (P)", "Aké 79'"],
-          "away_team_scorers": ["Walcott 56'", "Keane 66'"],
+          "home_team_scorers": [
+            "King 75' (P)",
+            "Aké 79'"
+          ],
+          "away_team_scorers": [
+            "Walcott 56'",
+            "Keane 66'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1273,8 +1743,13 @@
           "full_time_score": "1-2",
           "home_team_goals": 1,
           "away_team_goals": 2,
-          "home_team_scorers": ["Bertrand 52'"],
-          "away_team_scorers": ["Gray 56'", "Maguire 90 +2'"],
+          "home_team_scorers": [
+            "Bertrand 52'"
+          ],
+          "away_team_scorers": [
+            "Gray 56'",
+            "Maguire 90 +2'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1293,7 +1768,9 @@
           "full_time_score": "1-0",
           "home_team_goals": 1,
           "away_team_goals": 0,
-          "home_team_scorers": ["Salah 23'"],
+          "home_team_scorers": [
+            "Salah 23'"
+          ],
           "away_team_scorers": [],
           "postponed": false,
           "status": "FT"
@@ -1313,8 +1790,13 @@
           "full_time_score": "2-1",
           "home_team_goals": 2,
           "away_team_goals": 1,
-          "home_team_scorers": ["Pereyra 53'", "Holebas 71'"],
-          "away_team_scorers": ["Zaha 78'"],
+          "home_team_scorers": [
+            "Pereyra 53'",
+            "Holebas 71'"
+          ],
+          "away_team_scorers": [
+            "Zaha 78'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1333,10 +1815,18 @@
           "full_time_score": "4-2",
           "home_team_goals": 4,
           "away_team_goals": 2,
-          "home_team_scorers": ["Seri 4'", "Mitrović 36'", "Mitrović 38'", "Schürrle 83'"],
-          "away_team_scorers": ["Hendrick 10'", "Tarkowski 54'"],
+          "home_team_scorers": [
+            "Seri 4'",
+            "Mitrović 36'",
+            "Mitrović 38'",
+            "Schürrle 83'"
+          ],
+          "away_team_scorers": [
+            "Hendrick 10'",
+            "Tarkowski 54'"
+          ],
           "postponed": false,
-          "status":"FT"
+          "status": "FT"
         },
         {
           "id": 1029,
@@ -1353,8 +1843,13 @@
           "full_time_score": "1-2",
           "home_team_goals": 1,
           "away_team_goals": 2,
-          "home_team_scorers": ["Joselu 83'"],
-          "away_team_scorers": ["Hazard 76' (P)", "Yedlin 87' (OG)"],
+          "home_team_scorers": [
+            "Joselu 83'"
+          ],
+          "away_team_scorers": [
+            "Hazard 76' (P)",
+            "Yedlin 87' (OG)"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1374,7 +1869,11 @@
           "home_team_goals": 0,
           "away_team_goals": 3,
           "home_team_scorers": [],
-          "away_team_scorers": ["Kane 50'", "Moura 52'", "Moura 84'"],
+          "away_team_scorers": [
+            "Kane 50'",
+            "Moura 52'",
+            "Moura 84'"
+          ],
           "postponed": false,
           "status": "FT"
         }
@@ -1387,7 +1886,8 @@
       "total_home_goals_scored": 12,
       "total_away_goals_scored": 15,
       "number_of_own_goals": 1,
-      "fixtures": [{
+      "fixtures": [
+        {
           "id": 1031,
           "home_team": "Leicester City",
           "home_team_code": "LEI",
@@ -1402,8 +1902,13 @@
           "full_time_score": "1-2",
           "home_team_goals": 1,
           "away_team_goals": 2,
-          "home_team_scorers": ["Ghezzal 63'"],
-          "away_team_scorers": ["Mané 10'", "Firmino 45'"],
+          "home_team_scorers": [
+            "Ghezzal 63'"
+          ],
+          "away_team_scorers": [
+            "Mané 10'",
+            "Firmino 45'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1422,8 +1927,14 @@
           "full_time_score": "2-2",
           "home_team_goals": 2,
           "away_team_goals": 2,
-          "home_team_scorers": ["Murray 67'", "Murray 84' (P)"],
-          "away_team_scorers": ["Schürrle 43'", "Mitrović 62'"],
+          "home_team_scorers": [
+            "Murray 67'",
+            "Murray 84' (P)"
+          ],
+          "away_team_scorers": [
+            "Schürrle 43'",
+            "Mitrović 62'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1442,7 +1953,10 @@
           "full_time_score": "2-0",
           "home_team_goals": 2,
           "away_team_goals": 0,
-          "home_team_scorers": ["Pedro  72'", "Hazard 85'"],
+          "home_team_scorers": [
+            "Pedro  72'",
+            "Hazard 85'"
+          ],
           "away_team_scorers": [],
           "postponed": false,
           "status": "FT"
@@ -1463,7 +1977,10 @@
           "home_team_goals": 0,
           "away_team_goals": 2,
           "home_team_scorers": [],
-          "away_team_scorers": ["Ings 47'", "Højbjerg 90 +2'"],
+          "away_team_scorers": [
+            "Ings 47'",
+            "Højbjerg 90 +2'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1482,8 +1999,12 @@
           "full_time_score": "1-1",
           "home_team_goals": 1,
           "away_team_goals": 1,
-          "home_team_scorers": ["Calvert-Lewin 36'"],
-          "away_team_scorers": ["Billing 34'"],
+          "home_team_scorers": [
+            "Calvert-Lewin 36'"
+          ],
+          "away_team_scorers": [
+            "Billing 34'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1503,7 +2024,9 @@
           "home_team_goals": 0,
           "away_team_goals": 1,
           "home_team_scorers": [],
-          "away_team_scorers": ["Traoré 90 +3'"],
+          "away_team_scorers": [
+            "Traoré 90 +3'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1522,8 +2045,13 @@
           "full_time_score": "2-1",
           "home_team_goals": 2,
           "away_team_goals": 1,
-          "home_team_scorers": ["Sterling 8'", "Walker 52'"],
-          "away_team_scorers": ["Yedlin 30'"],
+          "home_team_scorers": [
+            "Sterling 8'",
+            "Walker 52'"
+          ],
+          "away_team_scorers": [
+            "Yedlin 30'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1542,8 +2070,15 @@
           "full_time_score": "2-3",
           "home_team_goals": 2,
           "away_team_goals": 3,
-          "home_team_scorers": ["Mustafi 11'", "Aubameyang 62'", "Lacazette 81'"],
-          "away_team_scorers": ["Camarasa 45 +2'", "Ward 70'"],
+          "home_team_scorers": [
+            "Mustafi 11'",
+            "Aubameyang 62'",
+            "Lacazette 81'"
+          ],
+          "away_team_scorers": [
+            "Camarasa 45 +2'",
+            "Ward 70'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1563,7 +2098,10 @@
           "home_team_goals": 0,
           "away_team_goals": 2,
           "home_team_scorers": [],
-          "away_team_scorers": ["Lukaku 27'", "Lukaku 44'"],
+          "away_team_scorers": [
+            "Lukaku 27'",
+            "Lukaku 44'"
+          ],
           "postponed": false,
           "status": "FT"
         },
@@ -1582,8 +2120,13 @@
           "full_time_score": "2-1",
           "home_team_goals": 2,
           "away_team_goals": 1,
-          "home_team_scorers": ["Deeney 69'", "Cathcart 76'"],
-          "away_team_scorers": ["Doucouré 53' (OG)"],
+          "home_team_scorers": [
+            "Deeney 69'",
+            "Cathcart 76'"
+          ],
+          "away_team_scorers": [
+            "Doucouré 53' (OG)"
+          ],
           "postponed": false,
           "status": "FT"
         }
@@ -1596,7 +2139,8 @@
       "total_home_goals_scored": null,
       "total_away_goals_scored": null,
       "number_of_own_goals": null,
-      "fixtures": [{
+      "fixtures": [
+        {
           "id": 1041,
           "home_team": "Tottenham Hotspur",
           "home_team_code": "TOT",
@@ -2219,7 +2763,8 @@
       ]
     }
   ],
-  "players": [{
+  "players": [
+    {
       "id": 3001,
       "club_code": "ARS",
       "current_club": "Arsenal",
@@ -2381,7 +2926,6 @@
       "own_goals": 0,
       "assists_made": 0
     },
-
     {
       "id": 3010,
       "club_code": "ARS",
@@ -7799,7 +8343,8 @@
       "goals_scored": null,
       "own_goals": null,
       "assists_made": null
-    }, {
+    },
+    {
       "id": 4020,
       "club_code": "CAR",
       "current_club": "Cardiff City",
@@ -12606,7 +13151,8 @@
       "assists_made": null
     }
   ],
-  "goals": [{
+  "goals": [
+    {
       "id": 1,
       "home_team": "MUN",
       "away_team": "LEI",
@@ -14382,7 +14928,8 @@
       "is_penalty": false
     }
   ],
-  "assists": [{
+  "assists": [
+    {
       "id": 1,
       "home_team": "MUN",
       "away_team": "LEI",
@@ -15462,7 +16009,8 @@
       "assist_provided_to_jersey_number": 15
     }
   ],
-  "clean_sheets": [{
+  "clean_sheets": [
+    {
       "id": 3324,
       "club_code": "BOU",
       "first_name": "Asmir",
@@ -15471,7 +16019,9 @@
       "jersey_name": "Begović",
       "jersey_number": 27,
       "number_of_clean_sheets": 1,
-      "oppositions": ["CAR-(H)"]
+      "oppositions": [
+        "CAR-(H)"
+      ]
     },
     {
       "id": 4725,
@@ -15482,7 +16032,9 @@
       "jersey_name": "Foster",
       "jersey_number": 26,
       "number_of_clean_sheets": 1,
-      "oppositions": ["BHA-(H)"]
+      "oppositions": [
+        "BHA-(H)"
+      ]
     },
     {
       "id": 3801,
@@ -15493,7 +16045,10 @@
       "jersey_name": "Arrizabalaga",
       "jersey_number": 1,
       "number_of_clean_sheets": 2,
-      "oppositions": ["HUD-(A)", "BOU-(H)"]
+      "oppositions": [
+        "HUD-(A)",
+        "BOU-(H)"
+      ]
     },
     {
       "id": 3713,
@@ -15504,7 +16059,9 @@
       "jersey_name": "Hennessey",
       "jersey_number": 13,
       "number_of_clean_sheets": 1,
-      "oppositions": ["FUL-(A)"]
+      "oppositions": [
+        "FUL-(A)"
+      ]
     },
     {
       "id": 4213,
@@ -15515,7 +16072,11 @@
       "jersey_name": "A.Becker",
       "jersey_number": 13,
       "number_of_clean_sheets": 3,
-      "oppositions": ["WHU-(H)", "CRY-(A)", "BHA-(H)"]
+      "oppositions": [
+        "WHU-(H)",
+        "CRY-(A)",
+        "BHA-(H)"
+      ]
     },
     {
       "id": 3201,
@@ -15526,7 +16087,10 @@
       "jersey_name": "McCarthy",
       "jersey_number": 1,
       "number_of_clean_sheets": 2,
-      "oppositions": ["BUR-(H)", "CRY-(A)"]
+      "oppositions": [
+        "BUR-(H)",
+        "CRY-(A)"
+      ]
     },
     {
       "id": 3417,
@@ -15537,7 +16101,9 @@
       "jersey_name": "Hart",
       "jersey_number": 20,
       "number_of_clean_sheets": 1,
-      "oppositions": ["SOU-(A)"]
+      "oppositions": [
+        "SOU-(A)"
+      ]
     },
     {
       "id": 4321,
@@ -15548,7 +16114,9 @@
       "jersey_name": "Ederson",
       "jersey_number": 31,
       "number_of_clean_sheets": 1,
-      "oppositions": ["SOU-(A)"]
+      "oppositions": [
+        "SOU-(A)"
+      ]
     },
     {
       "id": 4001,
@@ -15559,7 +16127,10 @@
       "jersey_name": "Etheridge",
       "jersey_number": 1,
       "number_of_clean_sheets": 2,
-      "oppositions": ["NEW-(H)", "HUD-(A)"]
+      "oppositions": [
+        "NEW-(H)",
+        "HUD-(A)"
+      ]
     },
     {
       "id": 4512,
@@ -15570,7 +16141,9 @@
       "jersey_name": "Dúbravka",
       "jersey_number": 12,
       "number_of_clean_sheets": 1,
-      "oppositions": ["CAR-(A)"]
+      "oppositions": [
+        "CAR-(A)"
+      ]
     },
     {
       "id": 3901,
@@ -15581,7 +16154,9 @@
       "jersey_name": "Schmeichel",
       "jersey_number": 1,
       "number_of_clean_sheets": 1,
-      "oppositions": ["WOL-(H)"]
+      "oppositions": [
+        "WOL-(H)"
+      ]
     },
     {
       "id": 4601,
@@ -15592,7 +16167,9 @@
       "jersey_name": "Lloris",
       "jersey_number": 1,
       "number_of_clean_sheets": 1,
-      "oppositions": ["MUN-(A)"]
+      "oppositions": [
+        "MUN-(A)"
+      ]
     },
     {
       "id": 4908,
@@ -15603,7 +16180,9 @@
       "jersey_name": "Patrício",
       "jersey_number": 11,
       "number_of_clean_sheets": 1,
-      "oppositions": ["WHU-(A)"]
+      "oppositions": [
+        "WHU-(A)"
+      ]
     },
     {
       "id": 4401,
@@ -15614,10 +16193,13 @@
       "jersey_name": "De Gea",
       "jersey_number": 1,
       "number_of_clean_sheets": 1,
-      "oppositions": ["BUR-(A)"]
+      "oppositions": [
+        "BUR-(A)"
+      ]
     }
   ],
-  "own_goals": [{
+  "own_goals": [
+    {
       "id": 1,
       "home_team": "LEI",
       "away_team": "WOL",
