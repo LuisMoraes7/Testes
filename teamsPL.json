@@ -41,26 +41,6 @@
   },
   {
     "team": {
-      "id": 35,
-      "name": "Bournemouth",
-      "code": "BOU",
-      "country": "England",
-      "founded": 1899,
-      "national": false,
-      "logo": "https://media.api-sports.io/football/teams/35.png"
-    },
-    "venue": {
-      "id": 504,
-      "name": "Vitality Stadium",
-      "address": "Dean Court, Kings Park",
-      "city": "Bournemouth, Dorset",
-      "capacity": 12000,
-      "surface": "grass",
-      "image": "https://media.api-sports.io/football/venues/504.png"
-    }
-  },
-  {
-    "team": {
       "id": 36,
       "name": "Fulham",
       "code": "FUL",
@@ -139,26 +119,7 @@
       "image": "https://media.api-sports.io/football/venues/494.png"
     }
   },
-  {
-    "team": {
-      "id": 44,
-      "name": "Burnley",
-      "code": "BUR",
-      "country": "England",
-      "founded": 1882,
-      "national": false,
-      "logo": "https://media.api-sports.io/football/teams/44.png"
-    },
-    "venue": {
-      "id": 512,
-      "name": "Turf Moor",
-      "address": "Harry Potts Way",
-      "city": "Burnley",
-      "capacity": 22546,
-      "surface": "grass",
-      "image": "https://media.api-sports.io/football/venues/512.png"
-    }
-  },
+
   {
     "team": {
       "id": 45,
@@ -259,26 +220,7 @@
       "image": "https://media.api-sports.io/football/venues/555.png"
     }
   },
-  {
-    "team": {
-      "id": 51,
-      "name": "Brighton",
-      "code": "BRI",
-      "country": "England",
-      "founded": 1901,
-      "national": false,
-      "logo": "https://media.api-sports.io/football/teams/51.png"
-    },
-    "venue": {
-      "id": 508,
-      "name": "The American Express Community Stadium",
-      "address": "Village Way",
-      "city": "Falmer, East Sussex",
-      "capacity": 31872,
-      "surface": "grass",
-      "image": "https://media.api-sports.io/football/venues/508.png"
-    }
-  },
+
   {
     "team": {
       "id": 52,
@@ -297,46 +239,6 @@
       "capacity": 26309,
       "surface": "grass",
       "image": "https://media.api-sports.io/football/venues/525.png"
-    }
-  },
-  {
-    "team": {
-      "id": 55,
-      "name": "Brentford",
-      "code": "BRE",
-      "country": "England",
-      "founded": 1889,
-      "national": false,
-      "logo": "https://media.api-sports.io/football/teams/55.png"
-    },
-    "venue": {
-      "id": 10503,
-      "name": "Gtech Community Stadium",
-      "address": "166 Lionel Rd N, Brentford",
-      "city": "Brentford, Middlesex",
-      "capacity": 17250,
-      "surface": "grass",
-      "image": "https://media.api-sports.io/football/venues/10503.png"
-    }
-  },
-  {
-    "team": {
-      "id": 62,
-      "name": "Sheffield Utd",
-      "code": "SHE",
-      "country": "England",
-      "founded": 1889,
-      "national": false,
-      "logo": "https://media.api-sports.io/football/teams/62.png"
-    },
-    "venue": {
-      "id": 581,
-      "name": "Bramall Lane",
-      "address": "Bramall Lane",
-      "city": "Sheffield",
-      "capacity": 32702,
-      "surface": "grass",
-      "image": "https://media.api-sports.io/football/venues/581.png"
     }
   },
   {
@@ -377,26 +279,6 @@
       "capacity": 42788,
       "surface": "grass",
       "image": "https://media.api-sports.io/football/venues/495.png"
-    }
-  },
-  {
-    "team": {
-      "id": 1359,
-      "name": "Luton",
-      "code": "LUT",
-      "country": "England",
-      "founded": 1885,
-      "national": false,
-      "logo": "https://media.api-sports.io/football/teams/1359.png"
-    },
-    "venue": {
-      "id": 551,
-      "name": "Kenilworth Road",
-      "address": "1 Maple Road",
-      "city": "Luton, Bedfordshire",
-      "capacity": 11500,
-      "surface": "grass",
-      "image": "https://media.api-sports.io/football/venues/551.png"
     }
   }
 ]
