@@ -1,0 +1,402 @@
+[
+    {
+        "rodada": 31,
+        "time1": "Grêmio",
+        "time2": "Atlético-GO"
+    },
+    {
+        "rodada": 31,
+        "time1": "Atlético-MG",
+        "time2": "Internacional"
+    },
+    {
+        "rodada": 31,
+        "time1": "Vitória",
+        "time2": "Fluminense"
+    },
+    {
+        "rodada": 31,
+        "time1": "Flamengo",
+        "time2": "Juventude"
+    },
+    {
+        "rodada": 31,
+        "time1": "Vasco",
+        "time2": "Bahia"
+    },
+    {
+        "rodada": 31,
+        "time1": "Palmeiras",
+        "time2": "Fortaleza"
+    },
+    {
+        "rodada": 31,
+        "time1": "Red Bull Bragantino",
+        "time2": "Botafogo"
+    },
+    {
+        "rodada": 31,
+        "time1": "Athletico-PR",
+        "time2": "Cruzeiro"
+    },
+    {
+        "rodada": 31,
+        "time1": "Cuiabá",
+        "time2": "Corinthians"
+    },
+    {
+        "rodada": 31,
+        "time1": "Criciúma",
+        "time2": "São Paulo"
+    },
+    {
+        "rodada": 32,
+        "time1": "Internacional",
+        "time2": "Criciúma"
+    },
+    {
+        "rodada": 32,
+        "time1": "Cruzeiro",
+        "time2": "Flamengo"
+    },
+    {
+        "rodada": 32,
+        "time1": "Bahia",
+        "time2": "São Paulo"
+    },
+    {
+        "rodada": 32,
+        "time1": "Fluminense",
+        "time2": "Grêmio"
+    },
+    {
+        "rodada": 32,
+        "time1": "Botafogo",
+        "time2": "Vasco"
+    },
+    {
+        "rodada": 32,
+        "time1": "Corinthians",
+        "time2": "Palmeiras"
+    },
+    {
+        "rodada": 32,
+        "time1": "Red Bull Bragantino",
+        "time2": "Cuiabá"
+    },
+    {
+        "rodada": 32,
+        "time1": "Athletico-PR",
+        "time2": "Vitória"
+    },
+    {
+        "rodada": 32,
+        "time1": "Atlético-GO",
+        "time2": "Atlético-MG"
+    },
+    {
+        "rodada": 32,
+        "time1": "Juventude",
+        "time2": "Fortaleza"
+    },
+    {
+        "rodada": 33,
+        "time1": "Internacional",
+        "time2": "Fluminense"
+      },
+      {
+        "rodada": 33,
+        "time1": "Cruzeiro",
+        "time2": "Criciúma"
+      },
+      {
+        "rodada": 33,
+        "time1": "Vitória",
+        "time2": "Corinthians"
+      },
+      {
+        "rodada": 33,
+        "time1": "Flamengo",
+        "time2": "Atlético-MG"
+      },
+      {
+        "rodada": 33,
+        "time1": "Botafogo",
+        "time2": "Cuiabá"
+      },
+      {
+        "rodada": 33,
+        "time1": "Palmeiras",
+        "time2": "Grêmio"
+      },
+      {
+        "rodada": 33,
+        "time1": "São Paulo",
+        "time2": "Athletico-PR"
+      },
+      {
+        "rodada": 33,
+        "time1": "Fortaleza",
+        "time2": "Vasco"
+      },
+      {
+        "rodada": 33,
+        "time1": "Atlético-GO",
+        "time2": "Red Bull Bragantino"
+      },
+      {
+        "rodada": 33,
+        "time1": "Juventude",
+        "time2": "Bahia"
+      },
+      {
+        "rodada": 34,
+        "time1": "Grêmio",
+        "time2": "Juventude"
+      },
+      {
+        "rodada": 34,
+        "time1": "Atlético-MG",
+        "time2": "Botafogo"
+      },
+      {
+        "rodada": 34,
+        "time1": "Bahia",
+        "time2": "Palmeiras"
+      },
+      {
+        "rodada": 34,
+        "time1": "Fluminense",
+        "time2": "Fortaleza"
+      },
+      {
+        "rodada": 34,
+        "time1": "Vasco",
+        "time2": "Internacional"
+      },
+      {
+        "rodada": 34,
+        "time1": "Corinthians",
+        "time2": "Cruzeiro"
+      },
+      {
+        "rodada": 34,
+        "time1": "Red Bull Bragantino",
+        "time2": "São Paulo"
+      },
+      {
+        "rodada": 34,
+        "time1": "Athletico-PR",
+        "time2": "Atlético-GO"
+      },
+      {
+        "rodada": 34,
+        "time1": "Cuiabá",
+        "time2": "Flamengo"
+      },
+      {
+        "rodada": 34,
+        "time1": "Criciúma",
+        "time2": "Vitória"
+      },
+      {
+        "rodada": 35,
+        "time1": "Internacional",
+        "time2": "Red Bull Bragantino"
+      },
+      {
+        "rodada": 35,
+        "time1": "Cruzeiro",
+        "time2": "Grêmio"
+      },
+      {
+        "rodada": 35,
+        "time1": "Bahia",
+        "time2": "Athletico-PR"
+      },
+      {
+        "rodada": 35,
+        "time1": "Fluminense",
+        "time2": "Criciúma"
+      },
+      {
+        "rodada": 35,
+        "time1": "Botafogo",
+        "time2": "Vitória"
+      },
+      {
+        "rodada": 35,
+        "time1": "Corinthians",
+        "time2": "Vasco"
+      },
+      {
+        "rodada": 35,
+        "time1": "São Paulo",
+        "time2": "Atlético-MG"
+      },
+      {
+        "rodada": 35,
+        "time1": "Fortaleza",
+        "time2": "Flamengo"
+      },
+      {
+        "rodada": 35,
+        "time1": "Atlético-GO",
+        "time2": "Palmeiras"
+      },
+      {
+        "rodada": 35,
+        "time1": "Juventude",
+        "time2": "Cuiabá"
+      },
+      {
+        "rodada": 36,
+        "time1": "Grêmio",
+        "time2": "São Paulo"
+      },
+      {
+        "rodada": 36,
+        "time1": "Atlético-MG",
+        "time2": "Juventude"
+      },
+      {
+        "rodada": 36,
+        "time1": "Vitória",
+        "time2": "Fortaleza"
+      },
+      {
+        "rodada": 36,
+        "time1": "Flamengo",
+        "time2": "Internacional"
+      },
+      {
+        "rodada": 36,
+        "time1": "Vasco",
+        "time2": "Atlético-GO"
+      },
+      {
+        "rodada": 36,
+        "time1": "Palmeiras",
+        "time2": "Botafogo"
+      },
+      {
+        "rodada": 36,
+        "time1": "Red Bull Bragantino",
+        "time2": "Cruzeiro"
+      },
+      {
+        "rodada": 36,
+        "time1": "Athletico-PR",
+        "time2": "Fluminense"
+      },
+      {
+        "rodada": 36,
+        "time1": "Cuiabá",
+        "time2": "Bahia"
+      },
+      {
+        "rodada": 36,
+        "time1": "Criciúma",
+        "time2": "Corinthians"
+      },
+      {
+        "rodada": 37,
+        "time1": "Internacional",
+        "time2": "Botafogo"
+      },
+      {
+        "rodada": 37,
+        "time1": "Cruzeiro",
+        "time2": "Palmeiras"
+      },
+      {
+        "rodada": 37,
+        "time1": "Vitória",
+        "time2": "Grêmio"
+      },
+      {
+        "rodada": 37,
+        "time1": "Fluminense",
+        "time2": "Cuiabá"
+      },
+      {
+        "rodada": 37,
+        "time1": "Vasco",
+        "time2": "Atlético-MG"
+      },
+      {
+        "rodada": 37,
+        "time1": "Corinthians",
+        "time2": "Bahia"
+      },
+      {
+        "rodada": 37,
+        "time1": "São Paulo",
+        "time2": "Juventude"
+      },
+      {
+        "rodada": 37,
+        "time1": "Athletico-PR",
+        "time2": "Red Bull Bragantino"
+      },
+      {
+        "rodada": 37,
+        "time1": "Atlético-GO",
+        "time2": "Fortaleza"
+      },
+      {
+        "rodada": 37,
+        "time1": "Criciúma",
+        "time2": "Flamengo"
+      },
+      {
+        "rodada": 38,
+        "time1": "Grêmio",
+        "time2": "Corinthians"
+      },
+      {
+        "rodada": 38,
+        "time1": "Atlético-MG",
+        "time2": "Athletico-PR"
+      },
+      {
+        "rodada": 38,
+        "time1": "Bahia",
+        "time2": "Atlético-GO"
+      },
+      {
+        "rodada": 38,
+        "time1": "Flamengo",
+        "time2": "Vitória"
+      },
+      {
+        "rodada": 38,
+        "time1": "Botafogo",
+        "time2": "São Paulo"
+      },
+      {
+        "rodada": 38,
+        "time1": "Palmeiras",
+        "time2": "Fluminense"
+      },
+      {
+        "rodada": 38,
+        "time1": "Red Bull Bragantino",
+        "time2": "Criciúma"
+      },
+      {
+        "rodada": 38,
+        "time1": "Fortaleza",
+        "time2": "Internacional"
+      },
+      {
+        "rodada": 38,
+        "time1": "Cuiabá",
+        "time2": "Vasco"
+      },
+      {
+        "rodada": 38,
+        "time1": "Juventude",
+        "time2": "Cruzeiro"
+      }
+]
