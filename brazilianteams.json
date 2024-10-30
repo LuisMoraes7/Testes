@@ -75,7 +75,7 @@
         "image": "https://seeklogo.com/images/C/cuiaba-esporte-clube-logo-C39FD2778A-seeklogo.com.png",
         "index": 19,
         "jogos": 31,
-        "vitorias": 8,
+        "vitorias": 6,
         "saldo": -16,
         "gols": 25
     },
@@ -160,14 +160,14 @@
         "gols": 42
     },
     {
-        "points": 37,
+        "points": 43,
         "team": "Vasco",
         "image": "https://seeklogo.com/images/V/Vasco_Da_Gama-logo-99E0C20F34-seeklogo.com.png",
         "index": 10,
-        "jogos": 29,
-        "vitorias": 10,
-        "saldo": -9,
-        "gols": 32
+        "jogos": 31,
+        "vitorias": 12,
+        "saldo": -7,
+        "gols": 36
     },
     {
         "points": 35,
