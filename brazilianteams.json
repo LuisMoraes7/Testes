@@ -1,163 +1,163 @@
 [
     {
-        "points": 31,
+        "points": 34,
         "team": "Athletico-PR",
         "image": "https://seeklogo.com/images/A/atletico-pr-logo-CD2FBD1390-seeklogo.com.png",
         "index": 17,
-        "jogos": 28,
-        "vitorias": 8,
-        "saldo": -7,
-        "gols": 29
+        "jogos": 30,
+        "vitorias": 9,
+        "saldo": -5,
+        "gols": 32
     },
     {
-        "points": 21,
+        "points": 22,
         "team": "Atlético-GO",
         "image": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
         "index": 20,
-        "jogos": 29,
+        "jogos": 31,
         "vitorias": 5,
-        "saldo": -25,
-        "gols": 22
+        "saldo": -27,
+        "gols": 23
     },
     {
         "points": 41,
         "team": "Atlético-MG",
         "image": "https://seeklogo.com/images/A/atletico-mg-logo-62B8B96E45-seeklogo.com.png",
         "index": 9,
-        "jogos": 29,
-        "vitorias": 10,
-        "saldo": -1,
-        "gols": 41
-    },
-    {
-        "points": 45,
-        "team": "Bahia",
-        "image": "https://seeklogo.com/images/B/Bahia-logo-0BF5C9A502-seeklogo.com.png",
-        "index": 7,
-        "jogos": 29,
-        "vitorias": 13,
-        "saldo": 6,
-        "gols": 39
-    },
-    {
-        "points": 60,
-        "team": "Botafogo",
-        "image": "https://seeklogo.com/images/B/Botafogo_de_Futebol_e_Regatas-logo-4E0AF07AD3-seeklogo.com.png",
-        "index": 1,
-        "jogos": 29,
-        "vitorias": 18,
-        "saldo": 22,
-        "gols": 47
-    },
-    {
-        "points": 29,
-        "team": "Corinthians",
-        "image": "https://seeklogo.com/images/C/Corinthians_Bras_and__227_o-logo-E92E44B595-seeklogo.com.png",
-        "index": 16,
         "jogos": 30,
-        "vitorias": 7,
-        "saldo": -6,
-        "gols": 34
-    },
-    {
-        "points": 43,
-        "team": "Cruzeiro",
-        "image": "https://seeklogo.com/images/C/Cruzeiro_Esporte_Clube-logo-E41C56B8CC-seeklogo.com.png",
-        "index": 8,
-        "jogos": 29,
-        "vitorias": 12,
-        "saldo": 6,
-        "gols": 35
-    },
-    {
-        "points": 26,
-        "team": "Cuiabá",
-        "image": "https://seeklogo.com/images/C/cuiaba-esporte-clube-logo-C39FD2778A-seeklogo.com.png",
-        "index": 19,
-        "jogos": 28,
-        "vitorias": 6,
-        "saldo": -14,
-        "gols": 25
-    },
-    {
-        "points": 51,
-        "team": "Flamengo",
-        "image": "https://seeklogo.com/images/C/Clube_de_Regatas_do_Flamengo-logo-35138A63C6-seeklogo.com.png",
-        "index": 4,
-        "jogos": 29,
-        "vitorias": 15,
-        "saldo": 11,
-        "gols": 45
-    },
-    {
-        "points": 30,
-        "team": "Fluminense",
-        "image": "https://seeklogo.com/images/F/Fluminense_Football_Club-logo-D1527EDB90-seeklogo.com.png",
-        "index": 15,
-        "jogos": 29,
-        "vitorias": 9,
-        "saldo": -6,
-        "gols": 24
-    },
-    {
-        "points": 56,
-        "team": "Fortaleza",
-        "image": "https://seeklogo.com/images/F/Fortaleza_Esporte_Clube_de_Fortaleza-CE-logo-3AE1E4EAF6-seeklogo.com.png",
-        "index": 3,
-        "jogos": 30,
-        "vitorias": 16,
-        "saldo": 9,
-        "gols": 39
-    },
-    {
-        "points": 35,
-        "team": "Grêmio",
-        "image": "https://seeklogo.com/images/G/Gremio-logo-63728B406B-seeklogo.com.png",
-        "index": 11,
-        "jogos": 29,
         "vitorias": 10,
-        "saldo": -4,
-        "gols": 33
+        "saldo": -3,
+        "gols": 42
     },
     {
         "points": 46,
-        "team": "Internacional",
-        "image": "https://seeklogo.com/images/S/sport-club-internacional-100th-anniversary-logo-AFBD605CF0-seeklogo.com.png",
-        "index": 6,
-        "jogos": 28,
+        "team": "Bahia",
+        "image": "https://seeklogo.com/images/B/Bahia-logo-0BF5C9A502-seeklogo.com.png",
+        "index": 7,
+        "jogos": 31,
+        "vitorias": 13,
+        "saldo": 5,
+        "gols": 42
+    },
+    {
+        "points": 64,
+        "team": "Botafogo",
+        "image": "https://seeklogo.com/images/B/Botafogo_de_Futebol_e_Regatas-logo-4E0AF07AD3-seeklogo.com.png",
+        "index": 1,
+        "jogos": 31,
+        "vitorias": 19,
+        "saldo": 23,
+        "gols": 49
+    },
+    {
+        "points": 35,
+        "team": "Corinthians",
+        "image": "https://seeklogo.com/images/C/Corinthians_Bras_and__227_o-logo-E92E44B595-seeklogo.com.png",
+        "index": 16,
+        "jogos": 31,
+        "vitorias": 8,
+        "saldo": -5,
+        "gols": 35
+    },
+    {
+        "points": 44,
+        "team": "Cruzeiro",
+        "image": "https://seeklogo.com/images/C/Cruzeiro_Esporte_Clube-logo-E41C56B8CC-seeklogo.com.png",
+        "index": 8,
+        "jogos": 31,
         "vitorias": 12,
-        "saldo": 11,
-        "gols": 37
+        "saldo": 3,
+        "gols": 36
+    },
+    {
+        "points": 27,
+        "team": "Cuiabá",
+        "image": "https://seeklogo.com/images/C/cuiaba-esporte-clube-logo-C39FD2778A-seeklogo.com.png",
+        "index": 19,
+        "jogos": 31,
+        "vitorias": 8,
+        "saldo": -16,
+        "gols": 25
+    },
+    {
+        "points": 55,
+        "team": "Flamengo",
+        "image": "https://seeklogo.com/images/C/Clube_de_Regatas_do_Flamengo-logo-35138A63C6-seeklogo.com.png",
+        "index": 4,
+        "jogos": 31,
+        "vitorias": 16,
+        "saldo": 13,
+        "gols": 49
+    },
+    {
+        "points": 36,
+        "team": "Fluminense",
+        "image": "https://seeklogo.com/images/F/Fluminense_Football_Club-logo-D1527EDB90-seeklogo.com.png",
+        "index": 15,
+        "jogos": 31,
+        "vitorias": 10,
+        "saldo": -6,
+        "gols": 26
     },
     {
         "points": 57,
+        "team": "Fortaleza",
+        "image": "https://seeklogo.com/images/F/Fortaleza_Esporte_Clube_de_Fortaleza-CE-logo-3AE1E4EAF6-seeklogo.com.png",
+        "index": 3,
+        "jogos": 31,
+        "vitorias": 16,
+        "saldo": 9,
+        "gols": 41
+    },
+    {
+        "points": 38,
+        "team": "Grêmio",
+        "image": "https://seeklogo.com/images/G/Gremio-logo-63728B406B-seeklogo.com.png",
+        "index": 11,
+        "jogos": 31,
+        "vitorias": 11,
+        "saldo": -3,
+        "gols": 36
+    },
+    {
+        "points": 53,
+        "team": "Internacional",
+        "image": "https://seeklogo.com/images/S/sport-club-internacional-100th-anniversary-logo-AFBD605CF0-seeklogo.com.png",
+        "index": 6,
+        "jogos": 31,
+        "vitorias": 14,
+        "saldo": 14,
+        "gols": 41
+    },
+    {
+        "points": 61,
         "team": "Palmeiras",
         "image": "https://seeklogo.com/images/P/palmeiras-logo-9ECCEA469E-seeklogo.com.png",
         "index": 2,
-        "jogos": 29,
-        "vitorias": 17,
-        "saldo": 26,
-        "gols": 46
+        "jogos": 31,
+        "vitorias": 18,
+        "saldo": 28,
+        "gols": 53
     },
     {
         "points": 34,
         "team": "Bragantino",
         "image": "https://seeklogo.com/images/B/bragantino-2020-logo-3EC44F6C66-seeklogo.com.png",
         "index": 13,
-        "jogos": 29,
+        "jogos": 31,
         "vitorias": 8,
-        "saldo": -4,
+        "saldo": -6,
         "gols": 34
     },
     {
-        "points": 50,
+        "points": 51,
         "team": "São Paulo",
         "image": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
         "index": 5,
-        "jogos": 30,
+        "jogos": 31,
         "vitorias": 15,
         "saldo": 9,
-        "gols": 41
+        "gols": 42
     },
     {
         "points": 37,
@@ -170,33 +170,33 @@
         "gols": 32
     },
     {
-        "points": 29,
+        "points": 35,
         "team": "Vitória",
         "image": "https://seeklogo.com/images/E/Esporte_Clube_Vitoria_de_Salvador-BA-logo-9ACB56091F-seeklogo.com.png",
         "index": 18,
-        "jogos": 29,
-        "vitorias": 8,
-        "saldo": -12,
-        "gols": 32
+        "jogos": 31,
+        "vitorias": 10,
+        "saldo": -10,
+        "gols": 35
     },
     {
         "points": 34,
         "team": "Juventude",
         "image": "https://seeklogo.com/images/E/EC_Juventude-logo-878B96020B-seeklogo.com.png",
         "index": 14,
-        "jogos": 29,
+        "jogos": 31,
         "vitorias": 8,
-        "saldo": -6,
-        "gols": 33
+        "saldo": -10,
+        "gols": 38
     },
     {
-        "points": 35,
+        "points": 37,
         "team": "Criciúma",
         "image": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
         "index": 12,
-        "jogos": 29,
+        "jogos": 31,
         "vitorias": 9,
         "saldo": -6,
-        "gols": 36
+        "gols": 38
     }
 ]
