@@ -1,7 +1,7 @@
 [{
     "name": "bulbasaur",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "green",
     "height": "7",
     "habitat": "grassland"
@@ -9,7 +9,7 @@
 {
     "name": "charmander",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}],
     "color": "red",
     "height": "6",
     "habitat": "mountain"
@@ -17,7 +17,7 @@
 {
     "name": "squirtle",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "5",
     "habitat": "waters-edge"
@@ -25,7 +25,7 @@
 {
     "name": "caterpie",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}],
     "color": "green",
     "height": "3",
     "habitat": "forest"
@@ -33,7 +33,7 @@
 {
     "name": "weedle",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "brown",
     "height": "3",
     "habitat": "forest"
@@ -41,7 +41,7 @@
 {
     "name": "pidgey",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "brown",
     "height": "3",
     "habitat": "forest"
@@ -49,7 +49,7 @@
 {
     "name": "rattata",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "purple",
     "height": "3",
     "habitat": "grassland"
@@ -57,7 +57,7 @@
 {
     "name": "spearow",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "brown",
     "height": "3",
     "habitat": "rough-terrain"
@@ -65,7 +65,7 @@
 {
     "name": "ekans",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "20",
     "habitat": "grassland"
@@ -73,7 +73,7 @@
 {
     "name": "sandshrew",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "yellow",
     "height": "6",
     "habitat": "rough-terrain"
@@ -81,7 +81,7 @@
 {
     "name": "nidoran-f",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "blue",
     "height": "4",
     "habitat": "grassland"
@@ -89,7 +89,7 @@
 {
     "name": "nidoran-m",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "5",
     "habitat": "grassland"
@@ -97,7 +97,7 @@
 {
     "name": "vulpix",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}],
     "color": "brown",
     "height": "6",
     "habitat": "grassland"
@@ -105,7 +105,7 @@
 {
     "name": "zubat",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "purple",
     "height": "8",
     "habitat": "cave"
@@ -113,7 +113,7 @@
 {
     "name": "oddish",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "blue",
     "height": "5",
     "habitat": "grassland"
@@ -121,7 +121,7 @@
 {
     "name": "paras",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}, {'slot': 2, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}, {"slot": 2, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}],
     "color": "red",
     "height": "3",
     "habitat": "forest"
@@ -129,7 +129,7 @@
 {
     "name": "venonat",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "10",
     "habitat": "forest"
@@ -137,7 +137,7 @@
 {
     "name": "diglett",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "brown",
     "height": "2",
     "habitat": "cave"
@@ -145,7 +145,7 @@
 {
     "name": "meowth",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "yellow",
     "height": "4",
     "habitat": "urban"
@@ -153,7 +153,7 @@
 {
     "name": "psyduck",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "yellow",
     "height": "8",
     "habitat": "waters-edge"
@@ -161,7 +161,7 @@
 {
     "name": "mankey",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fighting', 'url': 'https://pokeapi.co/api/v2/type/2/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fighting", "url": "https://pokeapi.co/api/v2/type/2/"}}],
     "color": "brown",
     "height": "5",
     "habitat": "mountain"
@@ -169,7 +169,7 @@
 {
     "name": "growlithe",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}],
     "color": "brown",
     "height": "7",
     "habitat": "grassland"
@@ -177,7 +177,7 @@
 {
     "name": "poliwag",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "6",
     "habitat": "waters-edge"
@@ -185,7 +185,7 @@
 {
     "name": "abra",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
-    "types": "[{'slot': 1, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "brown",
     "height": "9",
     "habitat": "urban"
@@ -193,7 +193,7 @@
 {
     "name": "machop",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fighting', 'url': 'https://pokeapi.co/api/v2/type/2/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fighting", "url": "https://pokeapi.co/api/v2/type/2/"}}],
     "color": "gray",
     "height": "8",
     "habitat": "mountain"
@@ -201,7 +201,7 @@
 {
     "name": "bellsprout",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "green",
     "height": "7",
     "habitat": "forest"
@@ -209,7 +209,7 @@
 {
     "name": "tentacool",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "blue",
     "height": "9",
     "habitat": "sea"
@@ -217,7 +217,7 @@
 {
     "name": "geodude",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
-    "types": "[{'slot': 1, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}, {'slot': 2, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}, {"slot": 2, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "brown",
     "height": "4",
     "habitat": "mountain"
@@ -225,7 +225,7 @@
 {
     "name": "ponyta",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}],
     "color": "yellow",
     "height": "10",
     "habitat": "grassland"
@@ -233,7 +233,7 @@
 {
     "name": "slowpoke",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}, {'slot': 2, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}, {"slot": 2, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "pink",
     "height": "12",
     "habitat": "waters-edge"
@@ -241,7 +241,7 @@
 {
     "name": "magnemite",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
-    "types": "[{'slot': 1, 'type': {'name': 'electric', 'url': 'https://pokeapi.co/api/v2/type/13/'}}, {'slot': 2, 'type': {'name': 'steel', 'url': 'https://pokeapi.co/api/v2/type/9/'}}]",
+    "types": [{"slot": 1, "type": {"name": "electric", "url": "https://pokeapi.co/api/v2/type/13/"}}, {"slot": 2, "type": {"name": "steel", "url": "https://pokeapi.co/api/v2/type/9/"}}],
     "color": "gray",
     "height": "3",
     "habitat": "rough-terrain"
@@ -249,7 +249,7 @@
 {
     "name": "farfetchd",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "brown",
     "height": "8",
     "habitat": "grassland"
@@ -257,7 +257,7 @@
 {
     "name": "doduo",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "brown",
     "height": "14",
     "habitat": "grassland"
@@ -265,7 +265,7 @@
 {
     "name": "seel",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "white",
     "height": "11",
     "habitat": "sea"
@@ -273,7 +273,7 @@
 {
     "name": "grimer",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "9",
     "habitat": "urban"
@@ -281,7 +281,7 @@
 {
     "name": "shellder",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "purple",
     "height": "3",
     "habitat": "sea"
@@ -289,7 +289,7 @@
 {
     "name": "gastly",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ghost', 'url': 'https://pokeapi.co/api/v2/type/8/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "ghost", "url": "https://pokeapi.co/api/v2/type/8/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "13",
     "habitat": "cave"
@@ -297,7 +297,7 @@
 {
     "name": "onix",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
-    "types": "[{'slot': 1, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}, {'slot': 2, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}, {"slot": 2, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "gray",
     "height": "88",
     "habitat": "cave"
@@ -305,7 +305,7 @@
 {
     "name": "drowzee",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
-    "types": "[{'slot': 1, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "yellow",
     "height": "10",
     "habitat": "grassland"
@@ -313,7 +313,7 @@
 {
     "name": "krabby",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "red",
     "height": "4",
     "habitat": "waters-edge"
@@ -321,7 +321,7 @@
 {
     "name": "voltorb",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
-    "types": "[{'slot': 1, 'type': {'name': 'electric', 'url': 'https://pokeapi.co/api/v2/type/13/'}}]",
+    "types": [{"slot": 1, "type": {"name": "electric", "url": "https://pokeapi.co/api/v2/type/13/"}}],
     "color": "red",
     "height": "5",
     "habitat": "urban"
@@ -329,7 +329,7 @@
 {
     "name": "exeggcute",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "pink",
     "height": "4",
     "habitat": "forest"
@@ -337,7 +337,7 @@
 {
     "name": "cubone",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "brown",
     "height": "4",
     "habitat": "mountain"
@@ -345,7 +345,7 @@
 {
     "name": "lickitung",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "pink",
     "height": "12",
     "habitat": "grassland"
@@ -353,7 +353,7 @@
 {
     "name": "koffing",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "6",
     "habitat": "urban"
@@ -361,15 +361,14 @@
 {
     "name": "rhyhorn",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}, {'slot': 2, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}]",
-    "color": "gray",
+    "types": [{"slot": 1, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}, {"slot": 2, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}],    "color": "gray",
     "height": "10",
     "habitat": "rough-terrain"
 },
 {
     "name": "tangela",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}],
     "color": "blue",
     "height": "10",
     "habitat": "grassland"
@@ -377,7 +376,7 @@
 {
     "name": "kangaskhan",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "brown",
     "height": "22",
     "habitat": "grassland"
@@ -385,7 +384,7 @@
 {
     "name": "horsea",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "4",
     "habitat": "sea"
@@ -393,7 +392,7 @@
 {
     "name": "goldeen",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "red",
     "height": "6",
     "habitat": "waters-edge"
@@ -401,7 +400,7 @@
 {
     "name": "staryu",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "brown",
     "height": "8",
     "habitat": "sea"
@@ -409,7 +408,7 @@
 {
     "name": "scyther",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "green",
     "height": "15",
     "habitat": "grassland"
@@ -417,7 +416,7 @@
 {
     "name": "pinsir",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}],
     "color": "brown",
     "height": "15",
     "habitat": "forest"
@@ -425,7 +424,7 @@
 {
     "name": "tauros",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "brown",
     "height": "14",
     "habitat": "grassland"
@@ -433,7 +432,7 @@
 {
     "name": "magikarp",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "red",
     "height": "9",
     "habitat": "waters-edge"
@@ -441,15 +440,14 @@
 {
     "name": "lapras",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}, {'slot': 2, 'type': {'name': 'ice', 'url': 'https://pokeapi.co/api/v2/type/15/'}}]",
-    "color": "blue",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}, {"slot": 2, "type": {"name": "ice", "url": "https://pokeapi.co/api/v2/type/15/"}}],    "color": "blue",
     "height": "25",
     "habitat": "sea"
 },
 {
     "name": "ditto",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "purple",
     "height": "3",
     "habitat": "urban"
@@ -457,7 +455,7 @@
 {
     "name": "eevee",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "brown",
     "height": "3",
     "habitat": "urban"
@@ -465,7 +463,7 @@
 {
     "name": "porygon",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "pink",
     "height": "8",
     "habitat": "urban"
@@ -473,7 +471,7 @@
 {
     "name": "omanyte",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
-    "types": "[{'slot': 1, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}, {'slot': 2, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}, {"slot": 2, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "4",
     "habitat": "sea"
@@ -481,7 +479,7 @@
 {
     "name": "kabuto",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
-    "types": "[{'slot': 1, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}, {'slot': 2, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}, {"slot": 2, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "brown",
     "height": "5",
     "habitat": "sea"
@@ -489,7 +487,7 @@
 {
     "name": "aerodactyl",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
-    "types": "[{'slot': 1, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "purple",
     "height": "18",
     "habitat": "mountain"
@@ -497,7 +495,7 @@
 {
     "name": "articuno",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ice', 'url': 'https://pokeapi.co/api/v2/type/15/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "ice", "url": "https://pokeapi.co/api/v2/type/15/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "blue",
     "height": "17",
     "habitat": "rare"
@@ -505,7 +503,7 @@
 {
     "name": "zapdos",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
-    "types": "[{'slot': 1, 'type': {'name': 'electric', 'url': 'https://pokeapi.co/api/v2/type/13/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "electric", "url": "https://pokeapi.co/api/v2/type/13/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "yellow",
     "height": "16",
     "habitat": "rare"
@@ -513,7 +511,7 @@
 {
     "name": "moltres",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "yellow",
     "height": "20",
     "habitat": "rare"
@@ -521,7 +519,7 @@
 {
     "name": "dratini",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
-    "types": "[{'slot': 1, 'type': {'name': 'dragon', 'url': 'https://pokeapi.co/api/v2/type/16/'}}]",
+    "types": [{"slot": 1, "type": {"name": "dragon", "url": "https://pokeapi.co/api/v2/type/16/"}}],
     "color": "blue",
     "height": "18",
     "habitat": "waters-edge"
@@ -529,7 +527,7 @@
 {
     "name": "mewtwo",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
-    "types": "[{'slot': 1, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "purple",
     "height": "20",
     "habitat": "rare"
@@ -537,7 +535,7 @@
 {
     "name": "mew",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
-    "types": "[{'slot': 1, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "pink",
     "height": "4",
     "habitat": "rare"
@@ -545,7 +543,7 @@
 {
     "name": "ivysaur",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "green",
     "height": "10",
     "habitat": "grassland"
@@ -553,7 +551,7 @@
 {
     "name": "venusaur",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "green",
     "height": "20",
     "habitat": "grassland"
@@ -561,7 +559,7 @@
 {
     "name": "charmeleon",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}],
     "color": "red",
     "height": "11",
     "habitat": "mountain"
@@ -569,7 +567,7 @@
 {
     "name": "charizard",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "red",
     "height": "17",
     "habitat": "mountain"
@@ -577,7 +575,7 @@
 {
     "name": "wartortle",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "10",
     "habitat": "waters-edge"
@@ -585,7 +583,7 @@
 {
     "name": "blastoise",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "16",
     "habitat": "waters-edge"
@@ -593,7 +591,7 @@
 {
     "name": "metapod",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}],
     "color": "green",
     "height": "7",
     "habitat": "forest"
@@ -601,7 +599,7 @@
 {
     "name": "butterfree",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "white",
     "height": "11",
     "habitat": "forest"
@@ -609,7 +607,7 @@
 {
     "name": "kakuna",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "yellow",
     "height": "6",
     "habitat": "forest"
@@ -617,7 +615,7 @@
 {
     "name": "beedrill",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "yellow",
     "height": "10",
     "habitat": "forest"
@@ -625,7 +623,7 @@
 {
     "name": "pidgeotto",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "brown",
     "height": "11",
     "habitat": "forest"
@@ -633,7 +631,7 @@
 {
     "name": "pidgeot",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "brown",
     "height": "15",
     "habitat": "forest"
@@ -641,7 +639,7 @@
 {
     "name": "raticate",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "brown",
     "height": "7",
     "habitat": "grassland"
@@ -649,7 +647,7 @@
 {
     "name": "fearow",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "brown",
     "height": "12",
     "habitat": "rough-terrain"
@@ -657,7 +655,7 @@
 {
     "name": "arbok",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "35",
     "habitat": "grassland"
@@ -665,7 +663,7 @@
 {
     "name": "pikachu",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-    "types": "[{'slot': 1, 'type': {'name': 'electric', 'url': 'https://pokeapi.co/api/v2/type/13/'}}]",
+    "types": [{"slot": 1, "type": {"name": "electric", "url": "https://pokeapi.co/api/v2/type/13/"}}],
     "color": "yellow",
     "height": "4",
     "habitat": "forest"
@@ -673,7 +671,7 @@
 {
     "name": "raichu",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
-    "types": "[{'slot': 1, 'type': {'name': 'electric', 'url': 'https://pokeapi.co/api/v2/type/13/'}}]",
+    "types": [{"slot": 1, "type": {"name": "electric", "url": "https://pokeapi.co/api/v2/type/13/"}}],
     "color": "yellow",
     "height": "8",
     "habitat": "forest"
@@ -681,7 +679,7 @@
 {
     "name": "sandslash",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "yellow",
     "height": "10",
     "habitat": "rough-terrain"
@@ -689,7 +687,7 @@
 {
     "name": "nidorina",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "blue",
     "height": "8",
     "habitat": "grassland"
@@ -697,7 +695,7 @@
 {
     "name": "nidoqueen",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}, {'slot': 2, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}, {"slot": 2, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "blue",
     "height": "13",
     "habitat": "grassland"
@@ -705,7 +703,7 @@
 {
     "name": "nidorino",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "9",
     "habitat": "grassland"
@@ -713,7 +711,7 @@
 {
     "name": "nidoking",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}, {'slot': 2, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}, {"slot": 2, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "purple",
     "height": "14",
     "habitat": "grassland"
@@ -721,7 +719,7 @@
 {
     "name": "clefairy",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fairy", "url": "https://pokeapi.co/api/v2/type/18/"}}],
     "color": "pink",
     "height": "6",
     "habitat": "mountain"
@@ -729,7 +727,7 @@
 {
     "name": "clefable",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fairy", "url": "https://pokeapi.co/api/v2/type/18/"}}],
     "color": "pink",
     "height": "13",
     "habitat": "mountain"
@@ -737,7 +735,7 @@
 {
     "name": "ninetales",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}],
     "color": "yellow",
     "height": "11",
     "habitat": "grassland"
@@ -745,7 +743,7 @@
 {
     "name": "jigglypuff",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}, {'slot': 2, 'type': {'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}, {"slot": 2, "type": {"name": "fairy", "url": "https://pokeapi.co/api/v2/type/18/"}}],
     "color": "pink",
     "height": "5",
     "habitat": "grassland"
@@ -753,7 +751,7 @@
 {
     "name": "wigglytuff",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}, {'slot': 2, 'type': {'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}, {"slot": 2, "type": {"name": "fairy", "url": "https://pokeapi.co/api/v2/type/18/"}}],
     "color": "pink",
     "height": "10",
     "habitat": "grassland"
@@ -761,7 +759,7 @@
 {
     "name": "golbat",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "purple",
     "height": "16",
     "habitat": "cave"
@@ -769,7 +767,7 @@
 {
     "name": "gloom",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "blue",
     "height": "8",
     "habitat": "grassland"
@@ -777,7 +775,7 @@
 {
     "name": "vileplume",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "red",
     "height": "12",
     "habitat": "grassland"
@@ -785,7 +783,7 @@
 {
     "name": "parasect",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}, {'slot': 2, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}, {"slot": 2, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}],
     "color": "red",
     "height": "10",
     "habitat": "forest"
@@ -793,7 +791,7 @@
 {
     "name": "venomoth",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
-    "types": "[{'slot': 1, 'type': {'name': 'bug', 'url': 'https://pokeapi.co/api/v2/type/7/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "bug", "url": "https://pokeapi.co/api/v2/type/7/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "15",
     "habitat": "forest"
@@ -801,7 +799,7 @@
 {
     "name": "dugtrio",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "brown",
     "height": "7",
     "habitat": "cave"
@@ -809,7 +807,7 @@
 {
     "name": "persian",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "yellow",
     "height": "10",
     "habitat": "urban"
@@ -817,7 +815,7 @@
 {
     "name": "golduck",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "17",
     "habitat": "waters-edge"
@@ -825,7 +823,7 @@
 {
     "name": "primeape",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fighting', 'url': 'https://pokeapi.co/api/v2/type/2/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fighting", "url": "https://pokeapi.co/api/v2/type/2/"}}],
     "color": "brown",
     "height": "10",
     "habitat": "mountain"
@@ -833,7 +831,7 @@
 {
     "name": "arcanine",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}],
     "color": "brown",
     "height": "19",
     "habitat": "grassland"
@@ -841,7 +839,7 @@
 {
     "name": "poliwhirl",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "10",
     "habitat": "waters-edge"
@@ -849,7 +847,7 @@
 {
     "name": "poliwrath",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}, {'slot': 2, 'type': {'name': 'fighting', 'url': 'https://pokeapi.co/api/v2/type/2/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}, {"slot": 2, "type": {"name": "fighting", "url": "https://pokeapi.co/api/v2/type/2/"}}],
     "color": "blue",
     "height": "13",
     "habitat": "waters-edge"
@@ -857,7 +855,7 @@
 {
     "name": "kadabra",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
-    "types": "[{'slot': 1, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "brown",
     "height": "13",
     "habitat": "urban"
@@ -865,7 +863,7 @@
 {
     "name": "alakazam",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
-    "types": "[{'slot': 1, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "brown",
     "height": "15",
     "habitat": "urban"
@@ -873,7 +871,7 @@
 {
     "name": "machoke",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fighting', 'url': 'https://pokeapi.co/api/v2/type/2/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fighting", "url": "https://pokeapi.co/api/v2/type/2/"}}],
     "color": "gray",
     "height": "15",
     "habitat": "mountain"
@@ -881,7 +879,7 @@
 {
     "name": "machamp",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fighting', 'url': 'https://pokeapi.co/api/v2/type/2/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fighting", "url": "https://pokeapi.co/api/v2/type/2/"}}],
     "color": "gray",
     "height": "16",
     "habitat": "mountain"
@@ -889,7 +887,7 @@
 {
     "name": "weepinbell",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "green",
     "height": "10",
     "habitat": "forest"
@@ -897,7 +895,7 @@
 {
     "name": "victreebel",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "green",
     "height": "17",
     "habitat": "forest"
@@ -905,7 +903,7 @@
 {
     "name": "tentacruel",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "blue",
     "height": "16",
     "habitat": "sea"
@@ -913,7 +911,7 @@
 {
     "name": "graveler",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
-    "types": "[{'slot': 1, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}, {'slot': 2, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}, {"slot": 2, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "brown",
     "height": "10",
     "habitat": "mountain"
@@ -921,7 +919,7 @@
 {
     "name": "golem",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
-    "types": "[{'slot': 1, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}, {'slot': 2, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}, {"slot": 2, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "brown",
     "height": "14",
     "habitat": "mountain"
@@ -929,7 +927,7 @@
 {
     "name": "rapidash",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}],
     "color": "yellow",
     "height": "17",
     "habitat": "grassland"
@@ -937,7 +935,7 @@
 {
     "name": "slowbro",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}, {'slot': 2, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}, {"slot": 2, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "pink",
     "height": "16",
     "habitat": "waters-edge"
@@ -945,7 +943,7 @@
 {
     "name": "magneton",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
-    "types": "[{'slot': 1, 'type': {'name': 'electric', 'url': 'https://pokeapi.co/api/v2/type/13/'}}, {'slot': 2, 'type': {'name': 'steel', 'url': 'https://pokeapi.co/api/v2/type/9/'}}]",
+    "types": [{"slot": 1, "type": {"name": "electric", "url": "https://pokeapi.co/api/v2/type/13/"}}, {"slot": 2, "type": {"name": "steel", "url": "https://pokeapi.co/api/v2/type/9/"}}],
     "color": "gray",
     "height": "10",
     "habitat": "rough-terrain"
@@ -953,7 +951,7 @@
 {
     "name": "dodrio",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "brown",
     "height": "18",
     "habitat": "grassland"
@@ -961,15 +959,14 @@
 {
     "name": "dewgong",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}, {'slot': 2, 'type': {'name': 'ice', 'url': 'https://pokeapi.co/api/v2/type/15/'}}]",
-    "color": "white",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}, {"slot": 2, "type": {"name": "ice", "url": "https://pokeapi.co/api/v2/type/15/"}}],    "color": "white",
     "height": "17",
     "habitat": "sea"
 },
 {
     "name": "muk",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "12",
     "habitat": "urban"
@@ -977,15 +974,14 @@
 {
     "name": "cloyster",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}, {'slot': 2, 'type': {'name': 'ice', 'url': 'https://pokeapi.co/api/v2/type/15/'}}]",
-    "color": "purple",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}, {"slot": 2, "type": {"name": "ice", "url": "https://pokeapi.co/api/v2/type/15/"}}],    "color": "purple",
     "height": "15",
     "habitat": "sea"
 },
 {
     "name": "haunter",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ghost', 'url': 'https://pokeapi.co/api/v2/type/8/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "ghost", "url": "https://pokeapi.co/api/v2/type/8/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "16",
     "habitat": "cave"
@@ -993,7 +989,7 @@
 {
     "name": "gengar",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ghost', 'url': 'https://pokeapi.co/api/v2/type/8/'}}, {'slot': 2, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "ghost", "url": "https://pokeapi.co/api/v2/type/8/"}}, {"slot": 2, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "15",
     "habitat": "cave"
@@ -1001,7 +997,7 @@
 {
     "name": "hypno",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
-    "types": "[{'slot': 1, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "yellow",
     "height": "16",
     "habitat": "grassland"
@@ -1009,7 +1005,7 @@
 {
     "name": "kingler",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "red",
     "height": "13",
     "habitat": "waters-edge"
@@ -1017,7 +1013,7 @@
 {
     "name": "electrode",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
-    "types": "[{'slot': 1, 'type': {'name': 'electric', 'url': 'https://pokeapi.co/api/v2/type/13/'}}]",
+    "types": [{"slot": 1, "type": {"name": "electric", "url": "https://pokeapi.co/api/v2/type/13/"}}],
     "color": "red",
     "height": "12",
     "habitat": "urban"
@@ -1025,7 +1021,7 @@
 {
     "name": "exeggutor",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
-    "types": "[{'slot': 1, 'type': {'name': 'grass', 'url': 'https://pokeapi.co/api/v2/type/12/'}}, {'slot': 2, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "grass", "url": "https://pokeapi.co/api/v2/type/12/"}}, {"slot": 2, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "yellow",
     "height": "20",
     "habitat": "forest"
@@ -1033,7 +1029,7 @@
 {
     "name": "marowak",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}]",
+    "types": [{"slot": 1, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}],
     "color": "brown",
     "height": "10",
     "habitat": "mountain"
@@ -1041,7 +1037,7 @@
 {
     "name": "hitmonlee",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fighting', 'url': 'https://pokeapi.co/api/v2/type/2/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fighting", "url": "https://pokeapi.co/api/v2/type/2/"}}],
     "color": "brown",
     "height": "15",
     "habitat": "urban"
@@ -1049,7 +1045,7 @@
 {
     "name": "hitmonchan",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fighting', 'url': 'https://pokeapi.co/api/v2/type/2/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fighting", "url": "https://pokeapi.co/api/v2/type/2/"}}],
     "color": "brown",
     "height": "14",
     "habitat": "urban"
@@ -1057,7 +1053,7 @@
 {
     "name": "weezing",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
-    "types": "[{'slot': 1, 'type': {'name': 'poison', 'url': 'https://pokeapi.co/api/v2/type/4/'}}]",
+    "types": [{"slot": 1, "type": {"name": "poison", "url": "https://pokeapi.co/api/v2/type/4/"}}],
     "color": "purple",
     "height": "12",
     "habitat": "urban"
@@ -1065,15 +1061,14 @@
 {
     "name": "rhydon",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ground', 'url': 'https://pokeapi.co/api/v2/type/5/'}}, {'slot': 2, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}]",
-    "color": "gray",
+    "types": [{"slot": 1, "type": {"name": "ground", "url": "https://pokeapi.co/api/v2/type/5/"}}, {"slot": 2, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}],    "color": "gray",
     "height": "19",
     "habitat": "rough-terrain"
 },
 {
     "name": "chansey",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "pink",
     "height": "11",
     "habitat": "urban"
@@ -1081,7 +1076,7 @@
 {
     "name": "seadra",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "12",
     "habitat": "sea"
@@ -1089,7 +1084,7 @@
 {
     "name": "seaking",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "red",
     "height": "13",
     "habitat": "waters-edge"
@@ -1097,7 +1092,7 @@
 {
     "name": "starmie",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}, {'slot': 2, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}, {"slot": 2, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}],
     "color": "purple",
     "height": "11",
     "habitat": "sea"
@@ -1105,7 +1100,7 @@
 {
     "name": "mr-mime",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
-    "types": "[{'slot': 1, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}, {'slot': 2, 'type': {'name': 'fairy', 'url': 'https://pokeapi.co/api/v2/type/18/'}}]",
+    "types": [{"slot": 1, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}, {"slot": 2, "type": {"name": "fairy", "url": "https://pokeapi.co/api/v2/type/18/"}}],
     "color": "pink",
     "height": "13",
     "habitat": "urban"
@@ -1113,7 +1108,9 @@
 {
     "name": "jynx",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
-    "types": "[{'slot': 1, 'type': {'name': 'ice', 'url': 'https://pokeapi.co/api/v2/type/15/'}}, {'slot': 2, 'type': {'name': 'psychic', 'url': 'https://pokeapi.co/api/v2/type/14/'}}]",
+    "types": [
+        {"slot": 1, "type": {"name": "ice", "url": "https://pokeapi.co/api/v2/type/15/"}}, {"slot": 2, "type": {"name": "psychic", "url": "https://pokeapi.co/api/v2/type/14/"}}
+    ],
     "color": "red",
     "height": "14",
     "habitat": "urban"
@@ -1121,7 +1118,7 @@
 {
     "name": "electabuzz",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
-    "types": "[{'slot': 1, 'type': {'name': 'electric', 'url': 'https://pokeapi.co/api/v2/type/13/'}}]",
+    "types": [{"slot": 1, "type": {"name": "electric", "url": "https://pokeapi.co/api/v2/type/13/"}}],
     "color": "yellow",
     "height": "11",
     "habitat": "grassland"
@@ -1129,7 +1126,7 @@
 {
     "name": "magmar",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}],
     "color": "red",
     "height": "13",
     "habitat": "mountain"
@@ -1137,7 +1134,7 @@
 {
     "name": "gyarados",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "blue",
     "height": "65",
     "habitat": "waters-edge"
@@ -1145,7 +1142,7 @@
 {
     "name": "vaporeon",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
-    "types": "[{'slot': 1, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "10",
     "habitat": "urban"
@@ -1153,7 +1150,7 @@
 {
     "name": "jolteon",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
-    "types": "[{'slot': 1, 'type': {'name': 'electric', 'url': 'https://pokeapi.co/api/v2/type/13/'}}]",
+    "types": [{"slot": 1, "type": {"name": "electric", "url": "https://pokeapi.co/api/v2/type/13/"}}],
     "color": "yellow",
     "height": "8",
     "habitat": "urban"
@@ -1161,7 +1158,7 @@
 {
     "name": "flareon",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
-    "types": "[{'slot': 1, 'type': {'name': 'fire', 'url': 'https://pokeapi.co/api/v2/type/10/'}}]",
+    "types": [{"slot": 1, "type": {"name": "fire", "url": "https://pokeapi.co/api/v2/type/10/"}}],
     "color": "red",
     "height": "9",
     "habitat": "urban"
@@ -1169,7 +1166,7 @@
 {
     "name": "omastar",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
-    "types": "[{'slot': 1, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}, {'slot': 2, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}, {"slot": 2, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "blue",
     "height": "10",
     "habitat": "sea"
@@ -1177,7 +1174,7 @@
 {
     "name": "kabutops",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
-    "types": "[{'slot': 1, 'type': {'name': 'rock', 'url': 'https://pokeapi.co/api/v2/type/6/'}}, {'slot': 2, 'type': {'name': 'water', 'url': 'https://pokeapi.co/api/v2/type/11/'}}]",
+    "types": [{"slot": 1, "type": {"name": "rock", "url": "https://pokeapi.co/api/v2/type/6/"}}, {"slot": 2, "type": {"name": "water", "url": "https://pokeapi.co/api/v2/type/11/"}}],
     "color": "brown",
     "height": "13",
     "habitat": "sea"
@@ -1185,7 +1182,7 @@
 {
     "name": "snorlax",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
-    "types": "[{'slot': 1, 'type': {'name': 'normal', 'url': 'https://pokeapi.co/api/v2/type/1/'}}]",
+    "types": [{"slot": 1, "type": {"name": "normal", "url": "https://pokeapi.co/api/v2/type/1/"}}],
     "color": "black",
     "height": "21",
     "habitat": "mountain"
@@ -1193,7 +1190,7 @@
 {
     "name": "dragonair",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
-    "types": "[{'slot': 1, 'type': {'name': 'dragon', 'url': 'https://pokeapi.co/api/v2/type/16/'}}]",
+    "types": [{"slot": 1, "type": {"name": "dragon", "url": "https://pokeapi.co/api/v2/type/16/"}}],
     "color": "blue",
     "height": "40",
     "habitat": "waters-edge"
@@ -1201,7 +1198,8 @@
 {
     "name": "dragonite",
     "photo": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
-    "types": "[{'slot': 1, 'type': {'name': 'dragon', 'url': 'https://pokeapi.co/api/v2/type/16/'}}, {'slot': 2, 'type': {'name': 'flying', 'url': 'https://pokeapi.co/api/v2/type/3/'}}]",
+    "types": [
+        {"slot": 1, "type": {"name": "dragon", "url": "https://pokeapi.co/api/v2/type/16/"}}, {"slot": 2, "type": {"name": "flying", "url": "https://pokeapi.co/api/v2/type/3/"}}],
     "color": "brown",
     "height": "22",
     "habitat": "waters-edge"
