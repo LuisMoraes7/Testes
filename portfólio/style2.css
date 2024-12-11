@@ -8,6 +8,7 @@ main {
   justify-content: center;
   align-items: center;
   margin-bottom: 150px;
+  height: 100vh;
 }
 
 #human-robot {
@@ -77,20 +78,22 @@ section#myself {
   flex-direction: column;
 
   @media (max-width: 868px) {
-    height: 160px;
-    width: 330px;
+    height: 150px;
+    width: 390px;
+    padding: 10px;
   }
 
   & p,
   a {
     margin-left: 30px;
+    margin-top: -20px;
   }
   & p#name {
     font-weight: 300;
     font-size: 1.8rem;
     margin-top: 50px;
     @media (max-width: 868px) {
-      margin-top: 20px;
+      margin-top: 6px;
       font-size: 1.4rem;
     }
   }
@@ -99,7 +102,8 @@ section#myself {
     font-size: 0.9rem;
     margin-top: -47px;
     @media (max-width: 868px) {
-      margin-top: -30px;
+      margin-top: -15px;
+      
     }
   }
 
@@ -109,6 +113,7 @@ section#myself {
     justify-content: end;
     width: 10ch;
     height: 1ch;
+    
     &:hover {
       color: rgb(65, 65, 65);
     }
