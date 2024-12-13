@@ -145,6 +145,12 @@ section#examples {
   }
 }
 
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 div.card-header {
   text-align: center;
 }
